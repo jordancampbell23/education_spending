@@ -1,0 +1,24 @@
+year_old,state,diff_year,diff_total_revenue,diff_federal_revenue,diff_state_revenue,diff_local_revenue,diff_current_spending,diff_total_salary,diff_total_benefits,diff_all_instruction,diff_instructional_staff_salary,diff_instructional_staff_benefits,diff_all_support_services,diff_support_services_staff_salary,diff_support_services_staff_benefits,diff_ss_pupil_support_services,diff_ss_instructional_staff_support_services,diff_ss_general_administration,diff_ss_school_administration,diff_ss_operation_and_maintenance_of_plant,diff_ss_pupil_transportation,diff_ss_other_nonspecified_support_services,diff_total_capital_outlay,diff_short_term_debt,diff_long_term_debt,diff_enrollment,diff_cpi
+2020,United States,0,2.77,0,0.1,2.67,6.68,-0.45,-0.24,6.37,-0.69,0.02,0.3,-0.06,0.01,-0.39,0.83,0.01,0.38,-0.57,0.01,0.03,-1.15,0.39,19.92,0,0
+2020,Alabama,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7.23,0,0
+2020,Alaska,0,-17.85,0,0,-17.85,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1323.57,0,0
+2020,California,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97.84,0,0
+2020,Connecticut,0,0,0,0,0,0,29.28,-27.12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39.14,1075.07,0,0
+2020,Idaho,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.14,0,0
+2020,Illinois,0,0,0,0,0,85.33,0,0,85.33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Indiana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Kansas,0,12.59,0.5,10.43,1.66,11.43,6.71,1.66,7.5,4.45,1.08,3.35,2.07,0.52,0.4,0.39,0.57,0.68,0.88,0.35,0.09,0.66,0,0,0,0
+2020,Louisiana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55.95,0,0
+2020,Maine,0,0,0,0,0,348.29,0,0,348.29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Massachusetts,0,143.99,-0.02,-0.33,144.33,85,-43.78,0.81,65.95,-39.37,0.71,18.95,-4.44,0.23,-21.2,44.25,0.08,19.97,-31.04,0.1,6.8,-61.84,0,86.26,0,0
+2020,Michigan,0,0,0,0,0,-3.48,0,0,0,0,0,-3.48,0,0,0,0,0,0,0,0,-3.48,0,0,-38.41,0,0
+2020,Minnesota,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-95.05,0,0
+2020,Missouri,0,0,0,0,0,0.39,0,0,0.39,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,Nebraska,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.7,0,0
+2020,New Hampshire,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-55.51,0,0
+2020,New Jersey,0,0,0,0,0,1.49,0,0,1.49,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2020,New York,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.37,0,0
+2020,North Carolina,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-119.34,0,0
+2020,Oklahoma,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-21.82,0,0
+2020,Pennsylvania,0,0,0,0,0,0.28,0,0,0.28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-7.78,0,0
+2020,Vermont,0,0,0,0,0,164.19,0,0,164.19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
