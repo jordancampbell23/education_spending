@@ -1,0 +1,6785 @@
+[
+  {
+    "State": "Alabama",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1010.7426,
+    "State Revenue": 5985.7574,
+    "Local Revenue": 3195.573
+  },
+  {
+    "State": "Alabama",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1101.9294,
+    "State Revenue": 5759.0054,
+    "Local Revenue": 3220.3093
+  },
+  {
+    "State": "Alabama",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1184.1343,
+    "State Revenue": 5623.8743,
+    "Local Revenue": 3325.1394
+  },
+  {
+    "State": "Alabama",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1225.3672,
+    "State Revenue": 5975.8407,
+    "Local Revenue": 3633.5179
+  },
+  {
+    "State": "Alabama",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1270.3172,
+    "State Revenue": 6160.0104,
+    "Local Revenue": 3639.2913
+  },
+  {
+    "State": "Alabama",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1168.537,
+    "State Revenue": 6903.5544,
+    "Local Revenue": 3913.0889
+  },
+  {
+    "State": "Alabama",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1163.7823,
+    "State Revenue": 7605.5184,
+    "Local Revenue": 3867.3679
+  },
+  {
+    "State": "Alabama",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1171.4527,
+    "State Revenue": 6688.5004,
+    "Local Revenue": 3688.9308
+  },
+  {
+    "State": "Alabama",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1797.4206,
+    "State Revenue": 6022.7161,
+    "Local Revenue": 3717.3405
+  },
+  {
+    "State": "Alabama",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1678.1982,
+    "State Revenue": 6178.8847,
+    "Local Revenue": 3634.2554
+  },
+  {
+    "State": "Alabama",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1199.4345,
+    "State Revenue": 5995.4765,
+    "Local Revenue": 3638.7564
+  },
+  {
+    "State": "Alabama",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1212.1987,
+    "State Revenue": 5821.5647,
+    "Local Revenue": 3648.4708
+  },
+  {
+    "State": "Alabama",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1174.7295,
+    "State Revenue": 5964.0148,
+    "Local Revenue": 3742.585
+  },
+  {
+    "State": "Alabama",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1176.178,
+    "State Revenue": 6034.6969,
+    "Local Revenue": 3672.5465
+  },
+  {
+    "State": "Alabama",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1167.1621,
+    "State Revenue": 6023.4174,
+    "Local Revenue": 3851.6685
+  },
+  {
+    "State": "Alabama",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1154.7608,
+    "State Revenue": 6191.5784,
+    "Local Revenue": 3910.7763
+  },
+  {
+    "State": "Alabama",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1179.6755,
+    "State Revenue": 6189.885,
+    "Local Revenue": 3902.242
+  },
+  {
+    "State": "Alabama",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1192.9163,
+    "State Revenue": 6464.9398,
+    "Local Revenue": 3903.8828
+  },
+  {
+    "State": "Alabama",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1259.84,
+    "State Revenue": 6652.18,
+    "Local Revenue": 3817.15
+  },
+  {
+    "State": "Alaska",
+    "Year": "2002-01-01",
+    "Federal Revenue": 2705.6381,
+    "State Revenue": 8396.4873,
+    "Local Revenue": 3855.3802
+  },
+  {
+    "State": "Alaska",
+    "Year": "2003-01-01",
+    "Federal Revenue": 2749.6241,
+    "State Revenue": 8620.8965,
+    "Local Revenue": 3743.073
+  },
+  {
+    "State": "Alaska",
+    "Year": "2004-01-01",
+    "Federal Revenue": 2973.8624,
+    "State Revenue": 8407.3689,
+    "Local Revenue": 3940.8522
+  },
+  {
+    "State": "Alaska",
+    "Year": "2005-01-01",
+    "Federal Revenue": 3065.8806,
+    "State Revenue": 8895.8797,
+    "Local Revenue": 4229.352
+  },
+  {
+    "State": "Alaska",
+    "Year": "2006-01-01",
+    "Federal Revenue": 2820.6396,
+    "State Revenue": 8942.7331,
+    "Local Revenue": 4051.1648
+  },
+  {
+    "State": "Alaska",
+    "Year": "2007-01-01",
+    "Federal Revenue": 2691.3357,
+    "State Revenue": 10033.8288,
+    "Local Revenue": 4442.7295
+  },
+  {
+    "State": "Alaska",
+    "Year": "2008-01-01",
+    "Federal Revenue": 2822.9098,
+    "State Revenue": 13205.7377,
+    "Local Revenue": 4334.1156
+  },
+  {
+    "State": "Alaska",
+    "Year": "2009-01-01",
+    "Federal Revenue": 2877.5065,
+    "State Revenue": 12495.4957,
+    "Local Revenue": 4494.9975
+  },
+  {
+    "State": "Alaska",
+    "Year": "2010-01-01",
+    "Federal Revenue": 3318.1287,
+    "State Revenue": 12267.0017,
+    "Local Revenue": 4579.7259
+  },
+  {
+    "State": "Alaska",
+    "Year": "2011-01-01",
+    "Federal Revenue": 3712.6843,
+    "State Revenue": 12513.9755,
+    "Local Revenue": 4608.3735
+  },
+  {
+    "State": "Alaska",
+    "Year": "2012-01-01",
+    "Federal Revenue": 3043.3242,
+    "State Revenue": 13036.9194,
+    "Local Revenue": 4525.8731
+  },
+  {
+    "State": "Alaska",
+    "Year": "2013-01-01",
+    "Federal Revenue": 2722.0768,
+    "State Revenue": 14481.9297,
+    "Local Revenue": 4382.3567
+  },
+  {
+    "State": "Alaska",
+    "Year": "2014-01-01",
+    "Federal Revenue": 2595.9817,
+    "State Revenue": 15300.9894,
+    "Local Revenue": 4441.6661
+  },
+  {
+    "State": "Alaska",
+    "Year": "2015-01-01",
+    "Federal Revenue": 2860.8132,
+    "State Revenue": 16848.058,
+    "Local Revenue": 4574.1682
+  },
+  {
+    "State": "Alaska",
+    "Year": "2016-01-01",
+    "Federal Revenue": 2505.0958,
+    "State Revenue": 13153.7398,
+    "Local Revenue": 4676.348
+  },
+  {
+    "State": "Alaska",
+    "Year": "2017-01-01",
+    "Federal Revenue": 2797.0329,
+    "State Revenue": 12783.004,
+    "Local Revenue": 4422.7877
+  },
+  {
+    "State": "Alaska",
+    "Year": "2018-01-01",
+    "Federal Revenue": 3106.5292,
+    "State Revenue": 12325.0663,
+    "Local Revenue": 4286.0388
+  },
+  {
+    "State": "Alaska",
+    "Year": "2019-01-01",
+    "Federal Revenue": 3040.3162,
+    "State Revenue": 12410.0879,
+    "Local Revenue": 4387.3069
+  },
+  {
+    "State": "Alaska",
+    "Year": "2020-01-01",
+    "Federal Revenue": 2891.73,
+    "State Revenue": 12572.11,
+    "Local Revenue": 4301.27
+  },
+  {
+    "State": "Arizona",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1041.3698,
+    "State Revenue": 4746.3285,
+    "Local Revenue": 4565.6984
+  },
+  {
+    "State": "Arizona",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1179.4539,
+    "State Revenue": 4638.6944,
+    "Local Revenue": 4510.7162
+  },
+  {
+    "State": "Arizona",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1238.4619,
+    "State Revenue": 4715.4283,
+    "Local Revenue": 4551.9479
+  },
+  {
+    "State": "Arizona",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1258.6502,
+    "State Revenue": 4655.9657,
+    "Local Revenue": 4575.979
+  },
+  {
+    "State": "Arizona",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1240.6252,
+    "State Revenue": 4680.5169,
+    "Local Revenue": 4457.4775
+  },
+  {
+    "State": "Arizona",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1239.7145,
+    "State Revenue": 5464.0839,
+    "Local Revenue": 4583.2948
+  },
+  {
+    "State": "Arizona",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1217.8295,
+    "State Revenue": 5488.6368,
+    "Local Revenue": 4602.3582
+  },
+  {
+    "State": "Arizona",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1274.782,
+    "State Revenue": 4646.7972,
+    "Local Revenue": 4724.2612
+  },
+  {
+    "State": "Arizona",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1945.0227,
+    "State Revenue": 3865.3818,
+    "Local Revenue": 4942.0728
+  },
+  {
+    "State": "Arizona",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1531.7214,
+    "State Revenue": 3755.5008,
+    "Local Revenue": 4961.298
+  },
+  {
+    "State": "Arizona",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1259.5147,
+    "State Revenue": 3412.5792,
+    "Local Revenue": 4765.3009
+  },
+  {
+    "State": "Arizona",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1391.2422,
+    "State Revenue": 3464.2683,
+    "Local Revenue": 4705.42
+  },
+  {
+    "State": "Arizona",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1279.2966,
+    "State Revenue": 3690.9857,
+    "Local Revenue": 4649.0705
+  },
+  {
+    "State": "Arizona",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1258.283,
+    "State Revenue": 3717.9309,
+    "Local Revenue": 4409.5996
+  },
+  {
+    "State": "Arizona",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1336.1087,
+    "State Revenue": 3959.9908,
+    "Local Revenue": 4406.2386
+  },
+  {
+    "State": "Arizona",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1334.2659,
+    "State Revenue": 3902.6874,
+    "Local Revenue": 4503.8788
+  },
+  {
+    "State": "Arizona",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1319.3482,
+    "State Revenue": 4036.098,
+    "Local Revenue": 4634.9459
+  },
+  {
+    "State": "Arizona",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1347.2142,
+    "State Revenue": 4439.8265,
+    "Local Revenue": 4690.9556
+  },
+  {
+    "State": "Arizona",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1315.07,
+    "State Revenue": 4760.49,
+    "Local Revenue": 4714.83
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1064.3439,
+    "State Revenue": 7505.3079,
+    "Local Revenue": 1511.6519
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1192.5795,
+    "State Revenue": 7515.3502,
+    "Local Revenue": 1425.0963
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1289.5133,
+    "State Revenue": 7410.0496,
+    "Local Revenue": 1583.0482
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1299.5294,
+    "State Revenue": 8709.1993,
+    "Local Revenue": 1515.8559
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1319.0064,
+    "State Revenue": 8506.9612,
+    "Local Revenue": 1760.6366
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1284.7756,
+    "State Revenue": 8815.9957,
+    "Local Revenue": 1593.2579
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1246.6822,
+    "State Revenue": 8901.3985,
+    "Local Revenue": 1568.4372
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1350.3762,
+    "State Revenue": 8919.3749,
+    "Local Revenue": 1686.8406
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1968.7725,
+    "State Revenue": 9190.0855,
+    "Local Revenue": 1461.0073
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2023.9653,
+    "State Revenue": 9057.934,
+    "Local Revenue": 1538.2853
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1583.6248,
+    "State Revenue": 9087.1453,
+    "Local Revenue": 1573.8903
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1331.5351,
+    "State Revenue": 8953.8415,
+    "Local Revenue": 1470.1178
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1261.0458,
+    "State Revenue": 9141.5586,
+    "Local Revenue": 1405.1582
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1317.5925,
+    "State Revenue": 9234.996,
+    "Local Revenue": 1441.4945
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1337.8689,
+    "State Revenue": 9290.2143,
+    "Local Revenue": 1505.5952
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1321.9045,
+    "State Revenue": 9158.3417,
+    "Local Revenue": 1609.3119
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1272.0994,
+    "State Revenue": 9134.9989,
+    "Local Revenue": 1608.8237
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1291.2813,
+    "State Revenue": 8933.2901,
+    "Local Revenue": 1700.0911
+  },
+  {
+    "State": "Arkansas",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1260.66,
+    "State Revenue": 8901.57,
+    "Local Revenue": 1665.83
+  },
+  {
+    "State": "California",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1195.6468,
+    "State Revenue": 7291.1627,
+    "Local Revenue": 3984.5604
+  },
+  {
+    "State": "California",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1322.7476,
+    "State Revenue": 7672.6032,
+    "Local Revenue": 4234.9796
+  },
+  {
+    "State": "California",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1466.9696,
+    "State Revenue": 7022.2224,
+    "Local Revenue": 4400.0932
+  },
+  {
+    "State": "California",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1526.8473,
+    "State Revenue": 7456.4944,
+    "Local Revenue": 3876.8601
+  },
+  {
+    "State": "California",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1534.1702,
+    "State Revenue": 7739.5592,
+    "Local Revenue": 3999.1779
+  },
+  {
+    "State": "California",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1456.3857,
+    "State Revenue": 8562.7211,
+    "Local Revenue": 4155.1329
+  },
+  {
+    "State": "California",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1419.3487,
+    "State Revenue": 8481.2842,
+    "Local Revenue": 4256.9279
+  },
+  {
+    "State": "California",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1894.3622,
+    "State Revenue": 7791.9099,
+    "Local Revenue": 4203.3839
+  },
+  {
+    "State": "California",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1877.7614,
+    "State Revenue": 6604.6266,
+    "Local Revenue": 4076.2929
+  },
+  {
+    "State": "California",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1874.4859,
+    "State Revenue": 7083.6167,
+    "Local Revenue": 3911.5557
+  },
+  {
+    "State": "California",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1602.7207,
+    "State Revenue": 6636.913,
+    "Local Revenue": 3893.5718
+  },
+  {
+    "State": "California",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1403.3281,
+    "State Revenue": 6293.1063,
+    "Local Revenue": 4202.7462
+  },
+  {
+    "State": "California",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1304.193,
+    "State Revenue": 6755.8388,
+    "Local Revenue": 4226.9154
+  },
+  {
+    "State": "California",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1319.223,
+    "State Revenue": 7395.4562,
+    "Local Revenue": 4448.0377
+  },
+  {
+    "State": "California",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1339.0459,
+    "State Revenue": 8841.9687,
+    "Local Revenue": 4853.7068
+  },
+  {
+    "State": "California",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1350.0621,
+    "State Revenue": 8735.1287,
+    "Local Revenue": 5163.2302
+  },
+  {
+    "State": "California",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1333.0553,
+    "State Revenue": 8245.0374,
+    "Local Revenue": 5418.4965
+  },
+  {
+    "State": "California",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1456.652,
+    "State Revenue": 9654.9927,
+    "Local Revenue": 6026.4468
+  },
+  {
+    "State": "California",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1417.24,
+    "State Revenue": 9296.18,
+    "Local Revenue": 6220.77
+  },
+  {
+    "State": "Colorado",
+    "Year": "2002-01-01",
+    "Federal Revenue": 659.5905,
+    "State Revenue": 4789.1431,
+    "Local Revenue": 5872.9665
+  },
+  {
+    "State": "Colorado",
+    "Year": "2003-01-01",
+    "Federal Revenue": 752.4265,
+    "State Revenue": 5104.7171,
+    "Local Revenue": 5915.4954
+  },
+  {
+    "State": "Colorado",
+    "Year": "2004-01-01",
+    "Federal Revenue": 795.0215,
+    "State Revenue": 5179.6597,
+    "Local Revenue": 5869.3991
+  },
+  {
+    "State": "Colorado",
+    "Year": "2005-01-01",
+    "Federal Revenue": 827.4466,
+    "State Revenue": 5177.4229,
+    "Local Revenue": 6017.3506
+  },
+  {
+    "State": "Colorado",
+    "Year": "2006-01-01",
+    "Federal Revenue": 863.8623,
+    "State Revenue": 5123.0523,
+    "Local Revenue": 6020.2405
+  },
+  {
+    "State": "Colorado",
+    "Year": "2007-01-01",
+    "Federal Revenue": 844.4882,
+    "State Revenue": 5270.794,
+    "Local Revenue": 6054.7807
+  },
+  {
+    "State": "Colorado",
+    "Year": "2008-01-01",
+    "Federal Revenue": 829.3146,
+    "State Revenue": 5181.0651,
+    "Local Revenue": 6205.4575
+  },
+  {
+    "State": "Colorado",
+    "Year": "2009-01-01",
+    "Federal Revenue": 826.9818,
+    "State Revenue": 5361.3646,
+    "Local Revenue": 6001.788
+  },
+  {
+    "State": "Colorado",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1026.5566,
+    "State Revenue": 5487.3913,
+    "Local Revenue": 6050.0384
+  },
+  {
+    "State": "Colorado",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1351.2499,
+    "State Revenue": 4870.7422,
+    "Local Revenue": 5905.7973
+  },
+  {
+    "State": "Colorado",
+    "Year": "2012-01-01",
+    "Federal Revenue": 946.2359,
+    "State Revenue": 4964.8637,
+    "Local Revenue": 5581.4383
+  },
+  {
+    "State": "Colorado",
+    "Year": "2013-01-01",
+    "Federal Revenue": 909.6271,
+    "State Revenue": 4825.7681,
+    "Local Revenue": 5738.1082
+  },
+  {
+    "State": "Colorado",
+    "Year": "2014-01-01",
+    "Federal Revenue": 862.0026,
+    "State Revenue": 5013.0026,
+    "Local Revenue": 5661.9624
+  },
+  {
+    "State": "Colorado",
+    "Year": "2015-01-01",
+    "Federal Revenue": 891.3164,
+    "State Revenue": 5426.4377,
+    "Local Revenue": 5650.1962
+  },
+  {
+    "State": "Colorado",
+    "Year": "2016-01-01",
+    "Federal Revenue": 875.3905,
+    "State Revenue": 5352.3286,
+    "Local Revenue": 6111.9672
+  },
+  {
+    "State": "Colorado",
+    "Year": "2017-01-01",
+    "Federal Revenue": 835.1671,
+    "State Revenue": 5362.8782,
+    "Local Revenue": 6234.1117
+  },
+  {
+    "State": "Colorado",
+    "Year": "2018-01-01",
+    "Federal Revenue": 808.891,
+    "State Revenue": 5290.4468,
+    "Local Revenue": 6727.6941
+  },
+  {
+    "State": "Colorado",
+    "Year": "2019-01-01",
+    "Federal Revenue": 813.5459,
+    "State Revenue": 6002.747,
+    "Local Revenue": 7150.214
+  },
+  {
+    "State": "Colorado",
+    "Year": "2020-01-01",
+    "Federal Revenue": 935.87,
+    "State Revenue": 6006.93,
+    "Local Revenue": 7553.19
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2002-01-01",
+    "Federal Revenue": 758.519,
+    "State Revenue": 6544.0224,
+    "Local Revenue": 9855.5054
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2003-01-01",
+    "Federal Revenue": 894.8019,
+    "State Revenue": 6327.1224,
+    "Local Revenue": 10208.8973
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2004-01-01",
+    "Federal Revenue": 888.1249,
+    "State Revenue": 6240.0156,
+    "Local Revenue": 10568.2388
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2005-01-01",
+    "Federal Revenue": 964.6185,
+    "State Revenue": 6932.9437,
+    "Local Revenue": 10744.2442
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2006-01-01",
+    "Federal Revenue": 901.9213,
+    "State Revenue": 7317.3271,
+    "Local Revenue": 11040.7545
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2007-01-01",
+    "Federal Revenue": 876.3145,
+    "State Revenue": 7479.2644,
+    "Local Revenue": 11498.7856
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2008-01-01",
+    "Federal Revenue": 852.2485,
+    "State Revenue": 7761.5952,
+    "Local Revenue": 11561.474
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2009-01-01",
+    "Federal Revenue": 883.2071,
+    "State Revenue": 7903.7851,
+    "Local Revenue": 12036.3091
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1788.8037,
+    "State Revenue": 7076.8087,
+    "Local Revenue": 11991.2031
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1747.8171,
+    "State Revenue": 6993.1772,
+    "Local Revenue": 12308.6101
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1102.7114,
+    "State Revenue": 8083.7122,
+    "Local Revenue": 12166.6714
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2013-01-01",
+    "Federal Revenue": 933.0652,
+    "State Revenue": 8310.7505,
+    "Local Revenue": 12458.237
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2014-01-01",
+    "Federal Revenue": 900.9894,
+    "State Revenue": 8872.0227,
+    "Local Revenue": 12754.8115
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2015-01-01",
+    "Federal Revenue": 955.2132,
+    "State Revenue": 9364.5507,
+    "Local Revenue": 13034.434
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1013.0746,
+    "State Revenue": 9536.7608,
+    "Local Revenue": 13599.9661
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1014.3648,
+    "State Revenue": 8996.3292,
+    "Local Revenue": 13656.4321
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1001.2664,
+    "State Revenue": 9105.5526,
+    "Local Revenue": 13836.2508
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1074.0716,
+    "State Revenue": 9327.9795,
+    "Local Revenue": 14650.4604
+  },
+  {
+    "State": "Connecticut",
+    "Year": "2020-01-01",
+    "Federal Revenue": 972.31,
+    "State Revenue": 9286.52,
+    "Local Revenue": 14615.83
+  },
+  {
+    "State": "Delaware",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1122.3494,
+    "State Revenue": 9913.8718,
+    "Local Revenue": 3860.2609
+  },
+  {
+    "State": "Delaware",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1167.8824,
+    "State Revenue": 10086.8956,
+    "Local Revenue": 4078.6026
+  },
+  {
+    "State": "Delaware",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1295.264,
+    "State Revenue": 10252.7102,
+    "Local Revenue": 4478.5572
+  },
+  {
+    "State": "Delaware",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1269.9369,
+    "State Revenue": 10664.9553,
+    "Local Revenue": 4512.2044
+  },
+  {
+    "State": "Delaware",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1232.9694,
+    "State Revenue": 10965.7485,
+    "Local Revenue": 4797.8884
+  },
+  {
+    "State": "Delaware",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1122.3541,
+    "State Revenue": 11782.0967,
+    "Local Revenue": 5159.5846
+  },
+  {
+    "State": "Delaware",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1111.388,
+    "State Revenue": 11056.175,
+    "Local Revenue": 5391.2013
+  },
+  {
+    "State": "Delaware",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1125.4993,
+    "State Revenue": 10748.0071,
+    "Local Revenue": 5307.8961
+  },
+  {
+    "State": "Delaware",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1822.1317,
+    "State Revenue": 10013.7663,
+    "Local Revenue": 5272.6465
+  },
+  {
+    "State": "Delaware",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1865.7574,
+    "State Revenue": 9805.5986,
+    "Local Revenue": 4947.5535
+  },
+  {
+    "State": "Delaware",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1751.7229,
+    "State Revenue": 10389.3403,
+    "Local Revenue": 5158.717
+  },
+  {
+    "State": "Delaware",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1415.4919,
+    "State Revenue": 10530.8985,
+    "Local Revenue": 5662.0011
+  },
+  {
+    "State": "Delaware",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1207.662,
+    "State Revenue": 10326.8642,
+    "Local Revenue": 5754.0813
+  },
+  {
+    "State": "Delaware",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1227.1063,
+    "State Revenue": 10191.4267,
+    "Local Revenue": 6216.1474
+  },
+  {
+    "State": "Delaware",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1197.3446,
+    "State Revenue": 10442.161,
+    "Local Revenue": 6180.3773
+  },
+  {
+    "State": "Delaware",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1207.514,
+    "State Revenue": 11391.9352,
+    "Local Revenue": 6649.9037
+  },
+  {
+    "State": "Delaware",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1205.2751,
+    "State Revenue": 11856.85,
+    "Local Revenue": 5636.5337
+  },
+  {
+    "State": "Delaware",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1216.9818,
+    "State Revenue": 12151.4009,
+    "Local Revenue": 5454.6028
+  },
+  {
+    "State": "Delaware",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1209.69,
+    "State Revenue": 12588.99,
+    "Local Revenue": 6233.54
+  },
+  {
+    "State": "Florida",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1017.9192,
+    "State Revenue": 4934.0052,
+    "Local Revenue": 4755.2813
+  },
+  {
+    "State": "Florida",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1089.8917,
+    "State Revenue": 4839.6194,
+    "Local Revenue": 4957.2271
+  },
+  {
+    "State": "Florida",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1159.1685,
+    "State Revenue": 5114.6325,
+    "Local Revenue": 5252.138
+  },
+  {
+    "State": "Florida",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1181.3476,
+    "State Revenue": 5043.378,
+    "Local Revenue": 5551.6426
+  },
+  {
+    "State": "Florida",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1194.1861,
+    "State Revenue": 4959.1772,
+    "Local Revenue": 6185.9779
+  },
+  {
+    "State": "Florida",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1181.1289,
+    "State Revenue": 5494.612,
+    "Local Revenue": 7035.1074
+  },
+  {
+    "State": "Florida",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1139.3535,
+    "State Revenue": 5434.5168,
+    "Local Revenue": 7205.4212
+  },
+  {
+    "State": "Florida",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1231.2497,
+    "State Revenue": 4134.178,
+    "Local Revenue": 6737.7379
+  },
+  {
+    "State": "Florida",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1897.3452,
+    "State Revenue": 3711.7502,
+    "Local Revenue": 6237.2472
+  },
+  {
+    "State": "Florida",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2079.3392,
+    "State Revenue": 4003.4499,
+    "Local Revenue": 5591.6742
+  },
+  {
+    "State": "Florida",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1304.8632,
+    "State Revenue": 3700.8266,
+    "Local Revenue": 5256.8533
+  },
+  {
+    "State": "Florida",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1255.7949,
+    "State Revenue": 3922.7677,
+    "Local Revenue": 5057.8142
+  },
+  {
+    "State": "Florida",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1258.1664,
+    "State Revenue": 4229.2584,
+    "Local Revenue": 5053.5222
+  },
+  {
+    "State": "Florida",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1235.3897,
+    "State Revenue": 4224.2031,
+    "Local Revenue": 5224.3876
+  },
+  {
+    "State": "Florida",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1223.9096,
+    "State Revenue": 4263.5331,
+    "Local Revenue": 5447.6708
+  },
+  {
+    "State": "Florida",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1211.5638,
+    "State Revenue": 4293.1628,
+    "Local Revenue": 5466.4551
+  },
+  {
+    "State": "Florida",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1234.7006,
+    "State Revenue": 4355.1234,
+    "Local Revenue": 5520.138
+  },
+  {
+    "State": "Florida",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1241.2912,
+    "State Revenue": 4385.1838,
+    "Local Revenue": 5755.1023
+  },
+  {
+    "State": "Florida",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1190.44,
+    "State Revenue": 4377.88,
+    "Local Revenue": 5957.81
+  },
+  {
+    "State": "Georgia",
+    "Year": "2002-01-01",
+    "Federal Revenue": 888.4357,
+    "State Revenue": 6246.5005,
+    "Local Revenue": 5667.8029
+  },
+  {
+    "State": "Georgia",
+    "Year": "2003-01-01",
+    "Federal Revenue": 993.6467,
+    "State Revenue": 6188.4063,
+    "Local Revenue": 5589.1637
+  },
+  {
+    "State": "Georgia",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1091.3074,
+    "State Revenue": 5750.846,
+    "Local Revenue": 5990.0948
+  },
+  {
+    "State": "Georgia",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1188.7155,
+    "State Revenue": 5574.1221,
+    "Local Revenue": 5958.2463
+  },
+  {
+    "State": "Georgia",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1177.8917,
+    "State Revenue": 5776.0831,
+    "Local Revenue": 6124.6541
+  },
+  {
+    "State": "Georgia",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1142.0676,
+    "State Revenue": 6120.4501,
+    "Local Revenue": 6474.3589
+  },
+  {
+    "State": "Georgia",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1070.3088,
+    "State Revenue": 6226.459,
+    "Local Revenue": 6491.7361
+  },
+  {
+    "State": "Georgia",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1194.9089,
+    "State Revenue": 5623.1217,
+    "Local Revenue": 6237.6079
+  },
+  {
+    "State": "Georgia",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1857.1926,
+    "State Revenue": 4816.7842,
+    "Local Revenue": 6073.6339
+  },
+  {
+    "State": "Georgia",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1583.7203,
+    "State Revenue": 5233.8617,
+    "Local Revenue": 5775.7652
+  },
+  {
+    "State": "Georgia",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1261.4255,
+    "State Revenue": 5049.7494,
+    "Local Revenue": 5580.432
+  },
+  {
+    "State": "Georgia",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1193.3081,
+    "State Revenue": 5009.3369,
+    "Local Revenue": 5331.8553
+  },
+  {
+    "State": "Georgia",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1162.5003,
+    "State Revenue": 5049.7998,
+    "Local Revenue": 5268.262
+  },
+  {
+    "State": "Georgia",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1158.8178,
+    "State Revenue": 5259.2384,
+    "Local Revenue": 5340.1367
+  },
+  {
+    "State": "Georgia",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1130.0792,
+    "State Revenue": 5484.2678,
+    "Local Revenue": 5515.6166
+  },
+  {
+    "State": "Georgia",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1129.7518,
+    "State Revenue": 5636.6626,
+    "Local Revenue": 5699.2117
+  },
+  {
+    "State": "Georgia",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1080.201,
+    "State Revenue": 5841.4652,
+    "Local Revenue": 5835.8144
+  },
+  {
+    "State": "Georgia",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1094.1957,
+    "State Revenue": 5880.3265,
+    "Local Revenue": 6161.7076
+  },
+  {
+    "State": "Georgia",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1050.87,
+    "State Revenue": 6285.13,
+    "Local Revenue": 6268.81
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1331.3684,
+    "State Revenue": 13178.4103,
+    "Local Revenue": 275.6019
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1309.4807,
+    "State Revenue": 14397.9726,
+    "Local Revenue": 270.396
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1780.3694,
+    "State Revenue": 13934.0894,
+    "Local Revenue": 383.445
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1736.1281,
+    "State Revenue": 14554.4442,
+    "Local Revenue": 370.5425
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1594.369,
+    "State Revenue": 17201.4632,
+    "Local Revenue": 342.4024
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1790.266,
+    "State Revenue": 18698.4068,
+    "Local Revenue": 333.7039
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2008-01-01",
+    "Federal Revenue": 2099.271,
+    "State Revenue": 14554.2794,
+    "Local Revenue": 517.8902
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2009-01-01",
+    "Federal Revenue": 2623.4203,
+    "State Revenue": 14725.4833,
+    "Local Revenue": 613.6472
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2518.7436,
+    "State Revenue": 13787.9115,
+    "Local Revenue": 587.2396
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2250.896,
+    "State Revenue": 13535.7865,
+    "Local Revenue": 410.0558
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1972.3262,
+    "State Revenue": 13374.0653,
+    "Local Revenue": 340.696
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1870.2221,
+    "State Revenue": 11812.6443,
+    "Local Revenue": 349.4478
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1681.7995,
+    "State Revenue": 13798.3915,
+    "Local Revenue": 323.3468
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1546.0253,
+    "State Revenue": 14194.5672,
+    "Local Revenue": 373.9781
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1549.4381,
+    "State Revenue": 16082.0497,
+    "Local Revenue": 350.2361
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1472.3932,
+    "State Revenue": 14798.206,
+    "Local Revenue": 337.7859
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1550.8539,
+    "State Revenue": 16861.8546,
+    "Local Revenue": 348.5443
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1674.5322,
+    "State Revenue": 15468.2729,
+    "Local Revenue": 367.7794
+  },
+  {
+    "State": "Hawaii",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1536.6,
+    "State Revenue": 16936.37,
+    "Local Revenue": 283.41
+  },
+  {
+    "State": "Idaho",
+    "Year": "2002-01-01",
+    "Federal Revenue": 814.1275,
+    "State Revenue": 5791.9725,
+    "Local Revenue": 2911.8847
+  },
+  {
+    "State": "Idaho",
+    "Year": "2003-01-01",
+    "Federal Revenue": 924.0202,
+    "State Revenue": 5651.2878,
+    "Local Revenue": 3003.7156
+  },
+  {
+    "State": "Idaho",
+    "Year": "2004-01-01",
+    "Federal Revenue": 973.7082,
+    "State Revenue": 5528.1996,
+    "Local Revenue": 3003.0721
+  },
+  {
+    "State": "Idaho",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1015.5496,
+    "State Revenue": 5412.7798,
+    "Local Revenue": 3065.5853
+  },
+  {
+    "State": "Idaho",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1006.4771,
+    "State Revenue": 5237.2684,
+    "Local Revenue": 3141.4454
+  },
+  {
+    "State": "Idaho",
+    "Year": "2007-01-01",
+    "Federal Revenue": 973.0288,
+    "State Revenue": 6414.9287,
+    "Local Revenue": 2253.0146
+  },
+  {
+    "State": "Idaho",
+    "Year": "2008-01-01",
+    "Federal Revenue": 937.3603,
+    "State Revenue": 6442.2344,
+    "Local Revenue": 2452.7348
+  },
+  {
+    "State": "Idaho",
+    "Year": "2009-01-01",
+    "Federal Revenue": 978.6137,
+    "State Revenue": 6528.7541,
+    "Local Revenue": 2250.2795
+  },
+  {
+    "State": "Idaho",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1976.3805,
+    "State Revenue": 5480.5666,
+    "Local Revenue": 2231.8001
+  },
+  {
+    "State": "Idaho",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1281.5844,
+    "State Revenue": 5782.1894,
+    "Local Revenue": 2086.6712
+  },
+  {
+    "State": "Idaho",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1124.3963,
+    "State Revenue": 5235.5641,
+    "Local Revenue": 2011.9991
+  },
+  {
+    "State": "Idaho",
+    "Year": "2013-01-01",
+    "Federal Revenue": 972.2696,
+    "State Revenue": 5223.4152,
+    "Local Revenue": 2038.3693
+  },
+  {
+    "State": "Idaho",
+    "Year": "2014-01-01",
+    "Federal Revenue": 904.7666,
+    "State Revenue": 5133.0834,
+    "Local Revenue": 2069.9711
+  },
+  {
+    "State": "Idaho",
+    "Year": "2015-01-01",
+    "Federal Revenue": 921.7647,
+    "State Revenue": 5477.0942,
+    "Local Revenue": 2195.5598
+  },
+  {
+    "State": "Idaho",
+    "Year": "2016-01-01",
+    "Federal Revenue": 944.2218,
+    "State Revenue": 5715.9984,
+    "Local Revenue": 2242.1136
+  },
+  {
+    "State": "Idaho",
+    "Year": "2017-01-01",
+    "Federal Revenue": 895.6913,
+    "State Revenue": 5919.5008,
+    "Local Revenue": 2288.5094
+  },
+  {
+    "State": "Idaho",
+    "Year": "2018-01-01",
+    "Federal Revenue": 897.3646,
+    "State Revenue": 6096.5798,
+    "Local Revenue": 2317.2656
+  },
+  {
+    "State": "Idaho",
+    "Year": "2019-01-01",
+    "Federal Revenue": 887.5102,
+    "State Revenue": 6135.9456,
+    "Local Revenue": 2417.3849
+  },
+  {
+    "State": "Idaho",
+    "Year": "2020-01-01",
+    "Federal Revenue": 910.98,
+    "State Revenue": 6354.03,
+    "Local Revenue": 2537
+  },
+  {
+    "State": "Illinois",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1011.4357,
+    "State Revenue": 4787.6702,
+    "Local Revenue": 7254.4273
+  },
+  {
+    "State": "Illinois",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1110.0252,
+    "State Revenue": 4657.9943,
+    "Local Revenue": 7313.0124
+  },
+  {
+    "State": "Illinois",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1162.3618,
+    "State Revenue": 4818.1807,
+    "Local Revenue": 7601.8827
+  },
+  {
+    "State": "Illinois",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1185.669,
+    "State Revenue": 4619.8107,
+    "Local Revenue": 7750.6201
+  },
+  {
+    "State": "Illinois",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1160.2912,
+    "State Revenue": 4393.7612,
+    "Local Revenue": 8032.5999
+  },
+  {
+    "State": "Illinois",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1114.8797,
+    "State Revenue": 4671.9295,
+    "Local Revenue": 8279.536
+  },
+  {
+    "State": "Illinois",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1152.5524,
+    "State Revenue": 4826.0578,
+    "Local Revenue": 8309.4198
+  },
+  {
+    "State": "Illinois",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1894.7577,
+    "State Revenue": 4461.0898,
+    "Local Revenue": 8575.1677
+  },
+  {
+    "State": "Illinois",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2155.5896,
+    "State Revenue": 4920.0915,
+    "Local Revenue": 8500.5594
+  },
+  {
+    "State": "Illinois",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1625.92,
+    "State Revenue": 5633.7574,
+    "Local Revenue": 8856.9445
+  },
+  {
+    "State": "Illinois",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1326.503,
+    "State Revenue": 5535.5245,
+    "Local Revenue": 9049.5867
+  },
+  {
+    "State": "Illinois",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1241.5408,
+    "State Revenue": 5577.2771,
+    "Local Revenue": 8964.5377
+  },
+  {
+    "State": "Illinois",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1222.9786,
+    "State Revenue": 5931.2247,
+    "Local Revenue": 9001.311
+  },
+  {
+    "State": "Illinois",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1201.2563,
+    "State Revenue": 6297.274,
+    "Local Revenue": 9177.0019
+  },
+  {
+    "State": "Illinois",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1239.9457,
+    "State Revenue": 6409.6026,
+    "Local Revenue": 9456.364
+  },
+  {
+    "State": "Illinois",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1213.8113,
+    "State Revenue": 7607.1262,
+    "Local Revenue": 9720.0107
+  },
+  {
+    "State": "Illinois",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1203.3362,
+    "State Revenue": 8128.3203,
+    "Local Revenue": 10012.2177
+  },
+  {
+    "State": "Illinois",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1211.5775,
+    "State Revenue": 7849.0295,
+    "Local Revenue": 10238.0416
+  },
+  {
+    "State": "Illinois",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1245.11,
+    "State Revenue": 8558.49,
+    "Local Revenue": 10391.36
+  },
+  {
+    "State": "Indiana",
+    "Year": "2002-01-01",
+    "Federal Revenue": 759.7464,
+    "State Revenue": 6455.5774,
+    "Local Revenue": 5901.1101
+  },
+  {
+    "State": "Indiana",
+    "Year": "2003-01-01",
+    "Federal Revenue": 823.9039,
+    "State Revenue": 6458.8871,
+    "Local Revenue": 4024.6449
+  },
+  {
+    "State": "Indiana",
+    "Year": "2004-01-01",
+    "Federal Revenue": 895.0092,
+    "State Revenue": 6934.7039,
+    "Local Revenue": 6160.736
+  },
+  {
+    "State": "Indiana",
+    "Year": "2005-01-01",
+    "Federal Revenue": 937.7907,
+    "State Revenue": 6910.9205,
+    "Local Revenue": 7217.5944
+  },
+  {
+    "State": "Indiana",
+    "Year": "2006-01-01",
+    "Federal Revenue": 932.5962,
+    "State Revenue": 6780.116,
+    "Local Revenue": 6549.0329
+  },
+  {
+    "State": "Indiana",
+    "Year": "2007-01-01",
+    "Federal Revenue": 932.1272,
+    "State Revenue": 6364.3973,
+    "Local Revenue": 5109.633
+  },
+  {
+    "State": "Indiana",
+    "Year": "2008-01-01",
+    "Federal Revenue": 951.3127,
+    "State Revenue": 6312.5309,
+    "Local Revenue": 5750.1099
+  },
+  {
+    "State": "Indiana",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1636.2727,
+    "State Revenue": 6765.9284,
+    "Local Revenue": 6412.3004
+  },
+  {
+    "State": "Indiana",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1709.1038,
+    "State Revenue": 8493.4855,
+    "Local Revenue": 5670.5528
+  },
+  {
+    "State": "Indiana",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1165.1338,
+    "State Revenue": 8348.931,
+    "Local Revenue": 3968.3727
+  },
+  {
+    "State": "Indiana",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1231.9959,
+    "State Revenue": 8381.6827,
+    "Local Revenue": 4024.3487
+  },
+  {
+    "State": "Indiana",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1086.6248,
+    "State Revenue": 8319.7566,
+    "Local Revenue": 3886.4098
+  },
+  {
+    "State": "Indiana",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1015.2239,
+    "State Revenue": 8296.9091,
+    "Local Revenue": 3895.6312
+  },
+  {
+    "State": "Indiana",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1006.5872,
+    "State Revenue": 8309.5463,
+    "Local Revenue": 3905.969
+  },
+  {
+    "State": "Indiana",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1028.3333,
+    "State Revenue": 8379.6091,
+    "Local Revenue": 4066.067
+  },
+  {
+    "State": "Indiana",
+    "Year": "2017-01-01",
+    "Federal Revenue": 986.4722,
+    "State Revenue": 8399.3996,
+    "Local Revenue": 4032.7999
+  },
+  {
+    "State": "Indiana",
+    "Year": "2018-01-01",
+    "Federal Revenue": 998.6431,
+    "State Revenue": 8373.7611,
+    "Local Revenue": 3967.3866
+  },
+  {
+    "State": "Indiana",
+    "Year": "2019-01-01",
+    "Federal Revenue": 982.7566,
+    "State Revenue": 8237.6339,
+    "Local Revenue": 4097.677
+  },
+  {
+    "State": "Indiana",
+    "Year": "2020-01-01",
+    "Federal Revenue": 949.55,
+    "State Revenue": 8358.46,
+    "Local Revenue": 4060.36
+  },
+  {
+    "State": "Iowa",
+    "Year": "2002-01-01",
+    "Federal Revenue": 813.7953,
+    "State Revenue": 5799.6257,
+    "Local Revenue": 5403.2331
+  },
+  {
+    "State": "Iowa",
+    "Year": "2003-01-01",
+    "Federal Revenue": 892.7957,
+    "State Revenue": 5786.2597,
+    "Local Revenue": 5681.0005
+  },
+  {
+    "State": "Iowa",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1014.8617,
+    "State Revenue": 5611.7646,
+    "Local Revenue": 5529.2088
+  },
+  {
+    "State": "Iowa",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1021.1594,
+    "State Revenue": 5757.5414,
+    "Local Revenue": 5734.8606
+  },
+  {
+    "State": "Iowa",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1062.667,
+    "State Revenue": 5772.85,
+    "Local Revenue": 5800.4212
+  },
+  {
+    "State": "Iowa",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1019.0225,
+    "State Revenue": 5946.4325,
+    "Local Revenue": 6095.1276
+  },
+  {
+    "State": "Iowa",
+    "Year": "2008-01-01",
+    "Federal Revenue": 982.0492,
+    "State Revenue": 6175.8635,
+    "Local Revenue": 6114.597
+  },
+  {
+    "State": "Iowa",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1059.8892,
+    "State Revenue": 6257.3005,
+    "Local Revenue": 6270.5568
+  },
+  {
+    "State": "Iowa",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1759.7486,
+    "State Revenue": 5358.5183,
+    "Local Revenue": 6250.8847
+  },
+  {
+    "State": "Iowa",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1407.1708,
+    "State Revenue": 5984.7966,
+    "Local Revenue": 6467.3692
+  },
+  {
+    "State": "Iowa",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1167.9359,
+    "State Revenue": 6112.8671,
+    "Local Revenue": 6470.7143
+  },
+  {
+    "State": "Iowa",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1022.0255,
+    "State Revenue": 6941.601,
+    "Local Revenue": 5459.186
+  },
+  {
+    "State": "Iowa",
+    "Year": "2014-01-01",
+    "Federal Revenue": 994.0718,
+    "State Revenue": 7085.0867,
+    "Local Revenue": 5437.9823
+  },
+  {
+    "State": "Iowa",
+    "Year": "2015-01-01",
+    "Federal Revenue": 986.2594,
+    "State Revenue": 7445.0474,
+    "Local Revenue": 5450.5702
+  },
+  {
+    "State": "Iowa",
+    "Year": "2016-01-01",
+    "Federal Revenue": 988.1295,
+    "State Revenue": 7616.6013,
+    "Local Revenue": 5520.3141
+  },
+  {
+    "State": "Iowa",
+    "Year": "2017-01-01",
+    "Federal Revenue": 994.3067,
+    "State Revenue": 7761.0922,
+    "Local Revenue": 5589.2102
+  },
+  {
+    "State": "Iowa",
+    "Year": "2018-01-01",
+    "Federal Revenue": 992.9716,
+    "State Revenue": 7602.5592,
+    "Local Revenue": 5685.3896
+  },
+  {
+    "State": "Iowa",
+    "Year": "2019-01-01",
+    "Federal Revenue": 990.2739,
+    "State Revenue": 7569.4768,
+    "Local Revenue": 5780.1329
+  },
+  {
+    "State": "Iowa",
+    "Year": "2020-01-01",
+    "Federal Revenue": 985.72,
+    "State Revenue": 7598.54,
+    "Local Revenue": 5725.82
+  },
+  {
+    "State": "Kansas",
+    "Year": "2002-01-01",
+    "Federal Revenue": 867.0934,
+    "State Revenue": 7008.4707,
+    "Local Revenue": 3841.9654
+  },
+  {
+    "State": "Kansas",
+    "Year": "2003-01-01",
+    "Federal Revenue": 935.6905,
+    "State Revenue": 7210.1974,
+    "Local Revenue": 4079.747
+  },
+  {
+    "State": "Kansas",
+    "Year": "2004-01-01",
+    "Federal Revenue": 999.5034,
+    "State Revenue": 6623.3086,
+    "Local Revenue": 5259.8655
+  },
+  {
+    "State": "Kansas",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1022.3136,
+    "State Revenue": 6761.0393,
+    "Local Revenue": 4312.0094
+  },
+  {
+    "State": "Kansas",
+    "Year": "2006-01-01",
+    "Federal Revenue": 945.7093,
+    "State Revenue": 7329.5867,
+    "Local Revenue": 4622.4907
+  },
+  {
+    "State": "Kansas",
+    "Year": "2007-01-01",
+    "Federal Revenue": 931.1188,
+    "State Revenue": 7778.2177,
+    "Local Revenue": 4826.1581
+  },
+  {
+    "State": "Kansas",
+    "Year": "2008-01-01",
+    "Federal Revenue": 894.8956,
+    "State Revenue": 8160.6838,
+    "Local Revenue": 4923.2625
+  },
+  {
+    "State": "Kansas",
+    "Year": "2009-01-01",
+    "Federal Revenue": 965.6931,
+    "State Revenue": 8390.9705,
+    "Local Revenue": 4952.9376
+  },
+  {
+    "State": "Kansas",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1696.2022,
+    "State Revenue": 7203.3553,
+    "Local Revenue": 4828.0123
+  },
+  {
+    "State": "Kansas",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1475.8238,
+    "State Revenue": 7101.0389,
+    "Local Revenue": 4773.9251
+  },
+  {
+    "State": "Kansas",
+    "Year": "2012-01-01",
+    "Federal Revenue": 954.7267,
+    "State Revenue": 7388.1876,
+    "Local Revenue": 4723.8078
+  },
+  {
+    "State": "Kansas",
+    "Year": "2013-01-01",
+    "Federal Revenue": 957.6374,
+    "State Revenue": 7268.0888,
+    "Local Revenue": 4667.6611
+  },
+  {
+    "State": "Kansas",
+    "Year": "2014-01-01",
+    "Federal Revenue": 925.7216,
+    "State Revenue": 7206.4157,
+    "Local Revenue": 4696.6956
+  },
+  {
+    "State": "Kansas",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1039.6988,
+    "State Revenue": 8679.8827,
+    "Local Revenue": 3384.4346
+  },
+  {
+    "State": "Kansas",
+    "Year": "2016-01-01",
+    "Federal Revenue": 989.177,
+    "State Revenue": 8606.6638,
+    "Local Revenue": 3626.9355
+  },
+  {
+    "State": "Kansas",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1152.4285,
+    "State Revenue": 8618.5543,
+    "Local Revenue": 3705.4036
+  },
+  {
+    "State": "Kansas",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1096.8112,
+    "State Revenue": 9063.4362,
+    "Local Revenue": 3739.541
+  },
+  {
+    "State": "Kansas",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1181.62,
+    "State Revenue": 9011.013,
+    "Local Revenue": 3841.1233
+  },
+  {
+    "State": "Kansas",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1049.15,
+    "State Revenue": 9768.84,
+    "Local Revenue": 3769.78
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1072.9645,
+    "State Revenue": 6054.9972,
+    "Local Revenue": 3066.3206
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1077.0769,
+    "State Revenue": 6209.995,
+    "Local Revenue": 3126.664
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1264.3678,
+    "State Revenue": 6180.9603,
+    "Local Revenue": 3244.6295
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1285.2096,
+    "State Revenue": 6208.1646,
+    "Local Revenue": 3331.7157
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1294.4097,
+    "State Revenue": 6544.0152,
+    "Local Revenue": 3578.0321
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1321.316,
+    "State Revenue": 6936.5781,
+    "Local Revenue": 3880.7079
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1272.302,
+    "State Revenue": 7009.9787,
+    "Local Revenue": 3825.9848
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1288.29,
+    "State Revenue": 6925.3751,
+    "Local Revenue": 3784.0019
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1850.2848,
+    "State Revenue": 6393.1339,
+    "Local Revenue": 3767.9971
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2014.201,
+    "State Revenue": 6405.9202,
+    "Local Revenue": 3864.2818
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1630.3866,
+    "State Revenue": 6501.7381,
+    "Local Revenue": 3792.2698
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1408.4538,
+    "State Revenue": 6428.965,
+    "Local Revenue": 3873.5566
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1316.3347,
+    "State Revenue": 6323.6989,
+    "Local Revenue": 3883.5443
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1340.4531,
+    "State Revenue": 6594.7781,
+    "Local Revenue": 3982.1277
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1384.8435,
+    "State Revenue": 6715.9525,
+    "Local Revenue": 4082.9886
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1412.3673,
+    "State Revenue": 6713.269,
+    "Local Revenue": 4148.8018
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1391.7197,
+    "State Revenue": 7236.4198,
+    "Local Revenue": 4276.9457
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1430.7783,
+    "State Revenue": 7216.6609,
+    "Local Revenue": 4400.2692
+  },
+  {
+    "State": "Kentucky",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1436.48,
+    "State Revenue": 6859.36,
+    "Local Revenue": 4419.34
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1329.7945,
+    "State Revenue": 5051.0414,
+    "Local Revenue": 4030.5807
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1443.7886,
+    "State Revenue": 5155.2698,
+    "Local Revenue": 4099.1881
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1506.0772,
+    "State Revenue": 5252.1795,
+    "Local Revenue": 4185.7964
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1579.5903,
+    "State Revenue": 5213.0948,
+    "Local Revenue": 4376.0927
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2006-01-01",
+    "Federal Revenue": 2547.0875,
+    "State Revenue": 5613.7597,
+    "Local Revenue": 5360.4722
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2007-01-01",
+    "Federal Revenue": 2348.481,
+    "State Revenue": 5540.4923,
+    "Local Revenue": 5474.596
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2008-01-01",
+    "Federal Revenue": 2365.1193,
+    "State Revenue": 6189.9252,
+    "Local Revenue": 5550.0491
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2009-01-01",
+    "Federal Revenue": 2239.3005,
+    "State Revenue": 6454.0948,
+    "Local Revenue": 5650.4852
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2770.6737,
+    "State Revenue": 5986.3853,
+    "Local Revenue": 5616.834
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2619.9044,
+    "State Revenue": 5720.6589,
+    "Local Revenue": 5624.8892
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2012-01-01",
+    "Federal Revenue": 2595.5148,
+    "State Revenue": 6096.6994,
+    "Local Revenue": 5663.6557
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2013-01-01",
+    "Federal Revenue": 2036.4236,
+    "State Revenue": 5583.5369,
+    "Local Revenue": 5772.765
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2014-01-01",
+    "Federal Revenue": 2092.7874,
+    "State Revenue": 5684.921,
+    "Local Revenue": 5915.8971
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2015-01-01",
+    "Federal Revenue": 2031.937,
+    "State Revenue": 5723.5178,
+    "Local Revenue": 6112.508
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1669.8767,
+    "State Revenue": 5689.6278,
+    "Local Revenue": 6350.6737
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1689.2474,
+    "State Revenue": 5628.7433,
+    "Local Revenue": 6262.6299
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1628.6999,
+    "State Revenue": 5577.1538,
+    "Local Revenue": 6395.1172
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1654.5707,
+    "State Revenue": 5769.9236,
+    "Local Revenue": 6520.9844
+  },
+  {
+    "State": "Louisiana",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1568.73,
+    "State Revenue": 5722.18,
+    "Local Revenue": 6461.88
+  },
+  {
+    "State": "Maine",
+    "Year": "2002-01-01",
+    "Federal Revenue": 976.2598,
+    "State Revenue": 5889.2115,
+    "Local Revenue": 6655.2393
+  },
+  {
+    "State": "Maine",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1110.336,
+    "State Revenue": 5936.2364,
+    "Local Revenue": 7055.4735
+  },
+  {
+    "State": "Maine",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1310.3734,
+    "State Revenue": 5988.0074,
+    "Local Revenue": 7401.313
+  },
+  {
+    "State": "Maine",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1338.1807,
+    "State Revenue": 6063.5577,
+    "Local Revenue": 7707.9157
+  },
+  {
+    "State": "Maine",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1334.7706,
+    "State Revenue": 6280.4209,
+    "Local Revenue": 7526.8267
+  },
+  {
+    "State": "Maine",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1290.1577,
+    "State Revenue": 7045.9599,
+    "Local Revenue": 7554.4376
+  },
+  {
+    "State": "Maine",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1215.1435,
+    "State Revenue": 6994.811,
+    "Local Revenue": 7515.6181
+  },
+  {
+    "State": "Maine",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1572.9039,
+    "State Revenue": 7106.0964,
+    "Local Revenue": 7700.5904
+  },
+  {
+    "State": "Maine",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2018.8713,
+    "State Revenue": 6818.8372,
+    "Local Revenue": 7950.2203
+  },
+  {
+    "State": "Maine",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1802.004,
+    "State Revenue": 6498.664,
+    "Local Revenue": 7874.668
+  },
+  {
+    "State": "Maine",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1449.0152,
+    "State Revenue": 6112.46,
+    "Local Revenue": 7870.096
+  },
+  {
+    "State": "Maine",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1182.8121,
+    "State Revenue": 6196.0183,
+    "Local Revenue": 8195.4057
+  },
+  {
+    "State": "Maine",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1120.8749,
+    "State Revenue": 6324.0821,
+    "Local Revenue": 8544.3185
+  },
+  {
+    "State": "Maine",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1134.6092,
+    "State Revenue": 6546.176,
+    "Local Revenue": 8795.9906
+  },
+  {
+    "State": "Maine",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1115.4361,
+    "State Revenue": 6451.4369,
+    "Local Revenue": 9055.039
+  },
+  {
+    "State": "Maine",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1096.8235,
+    "State Revenue": 6314.4819,
+    "Local Revenue": 9056.9275
+  },
+  {
+    "State": "Maine",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1083.747,
+    "State Revenue": 6428.2753,
+    "Local Revenue": 9206.5513
+  },
+  {
+    "State": "Maine",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1055.959,
+    "State Revenue": 6707.749,
+    "Local Revenue": 9468.472
+  },
+  {
+    "State": "Maine",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1003.2,
+    "State Revenue": 6953.14,
+    "Local Revenue": 9627.44
+  },
+  {
+    "State": "Maryland",
+    "Year": "2002-01-01",
+    "Federal Revenue": 884.7391,
+    "State Revenue": 5257.9089,
+    "Local Revenue": 7992.8314
+  },
+  {
+    "State": "Maryland",
+    "Year": "2003-01-01",
+    "Federal Revenue": 930.9574,
+    "State Revenue": 5407.694,
+    "Local Revenue": 7834.2219
+  },
+  {
+    "State": "Maryland",
+    "Year": "2004-01-01",
+    "Federal Revenue": 924.9792,
+    "State Revenue": 5466.2966,
+    "Local Revenue": 8108.968
+  },
+  {
+    "State": "Maryland",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1043.1289,
+    "State Revenue": 5797.4945,
+    "Local Revenue": 8547.9106
+  },
+  {
+    "State": "Maryland",
+    "Year": "2006-01-01",
+    "Federal Revenue": 997.3729,
+    "State Revenue": 6299.4698,
+    "Local Revenue": 8777.2673
+  },
+  {
+    "State": "Maryland",
+    "Year": "2007-01-01",
+    "Federal Revenue": 979.2932,
+    "State Revenue": 6933.6665,
+    "Local Revenue": 9355.7577
+  },
+  {
+    "State": "Maryland",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1008.2646,
+    "State Revenue": 7903.1242,
+    "Local Revenue": 9902.3344
+  },
+  {
+    "State": "Maryland",
+    "Year": "2009-01-01",
+    "Federal Revenue": 987.0158,
+    "State Revenue": 8092.8605,
+    "Local Revenue": 9587.3416
+  },
+  {
+    "State": "Maryland",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1405.52,
+    "State Revenue": 7758.3114,
+    "Local Revenue": 9476.3762
+  },
+  {
+    "State": "Maryland",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1715.6728,
+    "State Revenue": 7524.4901,
+    "Local Revenue": 9117.8584
+  },
+  {
+    "State": "Maryland",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1138.3593,
+    "State Revenue": 7919.6504,
+    "Local Revenue": 9147.8474
+  },
+  {
+    "State": "Maryland",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1071.9815,
+    "State Revenue": 7885.1289,
+    "Local Revenue": 8913.2696
+  },
+  {
+    "State": "Maryland",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1031.931,
+    "State Revenue": 7823.5926,
+    "Local Revenue": 8821.2445
+  },
+  {
+    "State": "Maryland",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1018.7187,
+    "State Revenue": 7794.4907,
+    "Local Revenue": 9203.6998
+  },
+  {
+    "State": "Maryland",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1011.5844,
+    "State Revenue": 7780.926,
+    "Local Revenue": 8901.1351
+  },
+  {
+    "State": "Maryland",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1019.5171,
+    "State Revenue": 7779.0088,
+    "Local Revenue": 9049.6337
+  },
+  {
+    "State": "Maryland",
+    "Year": "2018-01-01",
+    "Federal Revenue": 986.5225,
+    "State Revenue": 7733.7921,
+    "Local Revenue": 9714.0431
+  },
+  {
+    "State": "Maryland",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1028.1246,
+    "State Revenue": 7747.6067,
+    "Local Revenue": 9433.7501
+  },
+  {
+    "State": "Maryland",
+    "Year": "2020-01-01",
+    "Federal Revenue": 979.08,
+    "State Revenue": 8024.68,
+    "Local Revenue": 9577.15
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2002-01-01",
+    "Federal Revenue": 903.4822,
+    "State Revenue": 7049.307,
+    "Local Revenue": 8801.8038
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1041.0345,
+    "State Revenue": 6951.5,
+    "Local Revenue": 8787.9125
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1111.6699,
+    "State Revenue": 6789.2911,
+    "Local Revenue": 9138.9391
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1069.9164,
+    "State Revenue": 7637.6321,
+    "Local Revenue": 9375.6122
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1020.1334,
+    "State Revenue": 8407.0868,
+    "Local Revenue": 9689.0816
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1005.8887,
+    "State Revenue": 8649.6164,
+    "Local Revenue": 9631.6826
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2008-01-01",
+    "Federal Revenue": 961.862,
+    "State Revenue": 7924.8792,
+    "Local Revenue": 9931.4909
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1518.956,
+    "State Revenue": 7679.7471,
+    "Local Revenue": 10301.7172
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1395.4314,
+    "State Revenue": 7332.7742,
+    "Local Revenue": 10147.3749
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1506.6647,
+    "State Revenue": 7277.0647,
+    "Local Revenue": 10412.7684
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1199.8302,
+    "State Revenue": 7598.2877,
+    "Local Revenue": 10343.0873
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2013-01-01",
+    "Federal Revenue": 987.6133,
+    "State Revenue": 7761.0226,
+    "Local Revenue": 10543.1067
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2014-01-01",
+    "Federal Revenue": 940.7755,
+    "State Revenue": 7834.5738,
+    "Local Revenue": 10817.7745
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2015-01-01",
+    "Federal Revenue": 924.2649,
+    "State Revenue": 8078.6784,
+    "Local Revenue": 10985.2999
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2016-01-01",
+    "Federal Revenue": 896.988,
+    "State Revenue": 7937.7023,
+    "Local Revenue": 11495.137
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2017-01-01",
+    "Federal Revenue": 994.0947,
+    "State Revenue": 8048.595,
+    "Local Revenue": 11741.987
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2018-01-01",
+    "Federal Revenue": 938.776,
+    "State Revenue": 8112.467,
+    "Local Revenue": 12287.5535
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2019-01-01",
+    "Federal Revenue": 915.5579,
+    "State Revenue": 8375.475,
+    "Local Revenue": 11407.512
+  },
+  {
+    "State": "Massachusetts",
+    "Year": "2020-01-01",
+    "Federal Revenue": 946.31,
+    "State Revenue": 8964.91,
+    "Local Revenue": 11364.79
+  },
+  {
+    "State": "Michigan",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1047.4346,
+    "State Revenue": 9354.1773,
+    "Local Revenue": 4116.8165
+  },
+  {
+    "State": "Michigan",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1074.4349,
+    "State Revenue": 8889.8655,
+    "Local Revenue": 4100.8271
+  },
+  {
+    "State": "Michigan",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1122.9916,
+    "State Revenue": 8765.544,
+    "Local Revenue": 4242.0041
+  },
+  {
+    "State": "Michigan",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1165.4979,
+    "State Revenue": 8464.3406,
+    "Local Revenue": 4443.652
+  },
+  {
+    "State": "Michigan",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1140.3887,
+    "State Revenue": 8356.0568,
+    "Local Revenue": 4598.9285
+  },
+  {
+    "State": "Michigan",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1142.723,
+    "State Revenue": 8436.6636,
+    "Local Revenue": 4987.9745
+  },
+  {
+    "State": "Michigan",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1081.5995,
+    "State Revenue": 8094.3857,
+    "Local Revenue": 4959.0184
+  },
+  {
+    "State": "Michigan",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1613.9432,
+    "State Revenue": 7805.5977,
+    "Local Revenue": 4948.2512
+  },
+  {
+    "State": "Michigan",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1856.7771,
+    "State Revenue": 7551.0915,
+    "Local Revenue": 4930.7736
+  },
+  {
+    "State": "Michigan",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2018.7514,
+    "State Revenue": 7869.8731,
+    "Local Revenue": 4826.9249
+  },
+  {
+    "State": "Michigan",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1484.6631,
+    "State Revenue": 7793.0115,
+    "Local Revenue": 4779.0943
+  },
+  {
+    "State": "Michigan",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1317.2699,
+    "State Revenue": 7955.4765,
+    "Local Revenue": 4696.4917
+  },
+  {
+    "State": "Michigan",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1255.3089,
+    "State Revenue": 8088.5741,
+    "Local Revenue": 4730.8214
+  },
+  {
+    "State": "Michigan",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1279.1652,
+    "State Revenue": 8494.5732,
+    "Local Revenue": 4823.8529
+  },
+  {
+    "State": "Michigan",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1255.3988,
+    "State Revenue": 8673.0221,
+    "Local Revenue": 4988.2053
+  },
+  {
+    "State": "Michigan",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1215.5818,
+    "State Revenue": 8784.5955,
+    "Local Revenue": 4982.3046
+  },
+  {
+    "State": "Michigan",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1225.4312,
+    "State Revenue": 8922.0215,
+    "Local Revenue": 5136.8803
+  },
+  {
+    "State": "Michigan",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1242.7134,
+    "State Revenue": 8985.9621,
+    "Local Revenue": 5334.2039
+  },
+  {
+    "State": "Michigan",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1389.71,
+    "State Revenue": 9009.82,
+    "Local Revenue": 5567.88
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2002-01-01",
+    "Federal Revenue": 704.2968,
+    "State Revenue": 8197.2441,
+    "Local Revenue": 4519.8659
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2003-01-01",
+    "Federal Revenue": 785.6291,
+    "State Revenue": 10273.6918,
+    "Local Revenue": 2880.852
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2004-01-01",
+    "Federal Revenue": 846.8055,
+    "State Revenue": 10053.3293,
+    "Local Revenue": 3183.3347
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2005-01-01",
+    "Federal Revenue": 865.4135,
+    "State Revenue": 9671.6436,
+    "Local Revenue": 3366.22
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2006-01-01",
+    "Federal Revenue": 882.575,
+    "State Revenue": 10067.4999,
+    "Local Revenue": 3287.8623
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2007-01-01",
+    "Federal Revenue": 844.3873,
+    "State Revenue": 9679.3276,
+    "Local Revenue": 4084.6108
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2008-01-01",
+    "Federal Revenue": 839.2684,
+    "State Revenue": 9781.4666,
+    "Local Revenue": 4241.6265
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2009-01-01",
+    "Federal Revenue": 859.1996,
+    "State Revenue": 9836.3698,
+    "Local Revenue": 4483.5271
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1844.2079,
+    "State Revenue": 8853.2568,
+    "Local Revenue": 4443.8502
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1227.9329,
+    "State Revenue": 9163.0025,
+    "Local Revenue": 5278.773
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1046.2943,
+    "State Revenue": 9390.554,
+    "Local Revenue": 4445.1254
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2013-01-01",
+    "Federal Revenue": 895.84,
+    "State Revenue": 9411.4626,
+    "Local Revenue": 4522.863
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2014-01-01",
+    "Federal Revenue": 857.8751,
+    "State Revenue": 10346.3083,
+    "Local Revenue": 3787.8015
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2015-01-01",
+    "Federal Revenue": 848.454,
+    "State Revenue": 10192.666,
+    "Local Revenue": 4493.422
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2016-01-01",
+    "Federal Revenue": 844.4736,
+    "State Revenue": 10500.2583,
+    "Local Revenue": 4678.9073
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2017-01-01",
+    "Federal Revenue": 845.5778,
+    "State Revenue": 10458.248,
+    "Local Revenue": 4802.5981
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2018-01-01",
+    "Federal Revenue": 831.1831,
+    "State Revenue": 10519.4918,
+    "Local Revenue": 4794.4742
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2019-01-01",
+    "Federal Revenue": 841.8781,
+    "State Revenue": 10661.5508,
+    "Local Revenue": 5081.2057
+  },
+  {
+    "State": "Minnesota",
+    "Year": "2020-01-01",
+    "Federal Revenue": 883.43,
+    "State Revenue": 10755.58,
+    "Local Revenue": 5122.88
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1286.7055,
+    "State Revenue": 4810.9042,
+    "Local Revenue": 2780.5673
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1387.8105,
+    "State Revenue": 5042.1126,
+    "Local Revenue": 2929.8787
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1449.6345,
+    "State Revenue": 5353.4113,
+    "Local Revenue": 2956.1817
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1500.1806,
+    "State Revenue": 5316.581,
+    "Local Revenue": 3046.2328
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2006-01-01",
+    "Federal Revenue": 2243.0675,
+    "State Revenue": 5520.8428,
+    "Local Revenue": 3414.5449
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1818.3362,
+    "State Revenue": 5649.2942,
+    "Local Revenue": 3275.39
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1744.9442,
+    "State Revenue": 5887.0448,
+    "Local Revenue": 3302.747
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1648.4982,
+    "State Revenue": 5696.151,
+    "Local Revenue": 3344.9394
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2283.6674,
+    "State Revenue": 5091.5502,
+    "Local Revenue": 3379.3843
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2387.9111,
+    "State Revenue": 4914.6992,
+    "Local Revenue": 3392.23
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1832.2897,
+    "State Revenue": 5059.9136,
+    "Local Revenue": 3400.6401
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1596.1699,
+    "State Revenue": 4993.6596,
+    "Local Revenue": 3411.0656
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1477.8657,
+    "State Revenue": 4987.2084,
+    "Local Revenue": 3467.3669
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1491.0531,
+    "State Revenue": 5155.6316,
+    "Local Revenue": 3510.0759
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1533.9959,
+    "State Revenue": 5355.8382,
+    "Local Revenue": 3645.8549
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1477.1533,
+    "State Revenue": 5308.5242,
+    "Local Revenue": 3665.2026
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1428.5172,
+    "State Revenue": 5229.1073,
+    "Local Revenue": 3712.1062
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1473.6066,
+    "State Revenue": 5218.4779,
+    "Local Revenue": 3852.4196
+  },
+  {
+    "State": "Mississippi",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1433.09,
+    "State Revenue": 5403.82,
+    "Local Revenue": 3936.63
+  },
+  {
+    "State": "Missouri",
+    "Year": "2002-01-01",
+    "Federal Revenue": 861.4618,
+    "State Revenue": 5295.193,
+    "Local Revenue": 5545.4094
+  },
+  {
+    "State": "Missouri",
+    "Year": "2003-01-01",
+    "Federal Revenue": 855.5382,
+    "State Revenue": 5243.8853,
+    "Local Revenue": 5454.008
+  },
+  {
+    "State": "Missouri",
+    "Year": "2004-01-01",
+    "Federal Revenue": 935.9968,
+    "State Revenue": 5221.3109,
+    "Local Revenue": 5652.2546
+  },
+  {
+    "State": "Missouri",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1030.1646,
+    "State Revenue": 5404.204,
+    "Local Revenue": 5850.3179
+  },
+  {
+    "State": "Missouri",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1045.9329,
+    "State Revenue": 5408.101,
+    "Local Revenue": 5940.9152
+  },
+  {
+    "State": "Missouri",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1009.7834,
+    "State Revenue": 5031.2835,
+    "Local Revenue": 6174.4729
+  },
+  {
+    "State": "Missouri",
+    "Year": "2008-01-01",
+    "Federal Revenue": 976.7502,
+    "State Revenue": 5142.0277,
+    "Local Revenue": 6387.1177
+  },
+  {
+    "State": "Missouri",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1011.9462,
+    "State Revenue": 5238.3786,
+    "Local Revenue": 6283.0459
+  },
+  {
+    "State": "Missouri",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1892.4671,
+    "State Revenue": 4591.8203,
+    "Local Revenue": 6091.6391
+  },
+  {
+    "State": "Missouri",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1745.3266,
+    "State Revenue": 4968.7813,
+    "Local Revenue": 6060.8048
+  },
+  {
+    "State": "Missouri",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1258.4068,
+    "State Revenue": 5209.0175,
+    "Local Revenue": 6126.3552
+  },
+  {
+    "State": "Missouri",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1108.0726,
+    "State Revenue": 5248.8213,
+    "Local Revenue": 6073.1573
+  },
+  {
+    "State": "Missouri",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1098.201,
+    "State Revenue": 5231.5304,
+    "Local Revenue": 6131.5674
+  },
+  {
+    "State": "Missouri",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1155.0131,
+    "State Revenue": 5407.4904,
+    "Local Revenue": 6267.1084
+  },
+  {
+    "State": "Missouri",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1119.9715,
+    "State Revenue": 5533.9421,
+    "Local Revenue": 6435.4872
+  },
+  {
+    "State": "Missouri",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1106.015,
+    "State Revenue": 5585.7965,
+    "Local Revenue": 6551.2458
+  },
+  {
+    "State": "Missouri",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1058.3859,
+    "State Revenue": 5563.5505,
+    "Local Revenue": 6717.7923
+  },
+  {
+    "State": "Missouri",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1047.1617,
+    "State Revenue": 5630.7619,
+    "Local Revenue": 6794.3505
+  },
+  {
+    "State": "Missouri",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1102.91,
+    "State Revenue": 5327.29,
+    "Local Revenue": 5971.9
+  },
+  {
+    "State": "Montana",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1446.1953,
+    "State Revenue": 5275.0637,
+    "Local Revenue": 4329.7488
+  },
+  {
+    "State": "Montana",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1621.1751,
+    "State Revenue": 5220.2761,
+    "Local Revenue": 4449.7507
+  },
+  {
+    "State": "Montana",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1790.5852,
+    "State Revenue": 5232.3423,
+    "Local Revenue": 4764.2126
+  },
+  {
+    "State": "Montana",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1756.0845,
+    "State Revenue": 5298.1142,
+    "Local Revenue": 4718.5862
+  },
+  {
+    "State": "Montana",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1693.5321,
+    "State Revenue": 5581.6623,
+    "Local Revenue": 4879.0759
+  },
+  {
+    "State": "Montana",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1665.6328,
+    "State Revenue": 6137.8569,
+    "Local Revenue": 4990.1551
+  },
+  {
+    "State": "Montana",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1583.3254,
+    "State Revenue": 6526.9695,
+    "Local Revenue": 5112.6402
+  },
+  {
+    "State": "Montana",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1656.4447,
+    "State Revenue": 6476.4482,
+    "Local Revenue": 5369.8625
+  },
+  {
+    "State": "Montana",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2144.8007,
+    "State Revenue": 6239.9296,
+    "Local Revenue": 5096.7726
+  },
+  {
+    "State": "Montana",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2175.1555,
+    "State Revenue": 5868.346,
+    "Local Revenue": 5263.1663
+  },
+  {
+    "State": "Montana",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1702.3269,
+    "State Revenue": 6049.2141,
+    "Local Revenue": 5064.7073
+  },
+  {
+    "State": "Montana",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1639.7438,
+    "State Revenue": 6138.1903,
+    "Local Revenue": 5082.2418
+  },
+  {
+    "State": "Montana",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1531.8518,
+    "State Revenue": 6254.1663,
+    "Local Revenue": 5230.9611
+  },
+  {
+    "State": "Montana",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1617.8576,
+    "State Revenue": 6404.7942,
+    "Local Revenue": 5432.7208
+  },
+  {
+    "State": "Montana",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1638.2579,
+    "State Revenue": 6251.4763,
+    "Local Revenue": 5331.217
+  },
+  {
+    "State": "Montana",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1603.8733,
+    "State Revenue": 6214.6261,
+    "Local Revenue": 5442.8879
+  },
+  {
+    "State": "Montana",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1698.78,
+    "State Revenue": 5856.5927,
+    "Local Revenue": 6024.3535
+  },
+  {
+    "State": "Montana",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1806.0953,
+    "State Revenue": 5956.231,
+    "Local Revenue": 6238.3842
+  },
+  {
+    "State": "Montana",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1707.2,
+    "State Revenue": 5912.09,
+    "Local Revenue": 6150.18
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1011.5945,
+    "State Revenue": 4464.2141,
+    "Local Revenue": 7068.7866
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1120.1555,
+    "State Revenue": 4357.9986,
+    "Local Revenue": 7145.29
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1164.463,
+    "State Revenue": 4242.3911,
+    "Local Revenue": 7541.8597
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1392.2522,
+    "State Revenue": 4132.8847,
+    "Local Revenue": 7782.2658
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1363.7514,
+    "State Revenue": 4284.2654,
+    "Local Revenue": 7985.8893
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1309.0014,
+    "State Revenue": 4354.7628,
+    "Local Revenue": 8071.2468
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1345.1387,
+    "State Revenue": 4558.6052,
+    "Local Revenue": 7911.3036
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1221.4334,
+    "State Revenue": 4852.2812,
+    "Local Revenue": 8064.8857
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1874.1295,
+    "State Revenue": 4768.5133,
+    "Local Revenue": 8019.4637
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2236.3252,
+    "State Revenue": 4508.3792,
+    "Local Revenue": 8120.336
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1375.085,
+    "State Revenue": 4381.9472,
+    "Local Revenue": 8111.9208
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1342.8539,
+    "State Revenue": 4463.3671,
+    "Local Revenue": 8107.1682
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1133.2246,
+    "State Revenue": 4569.575,
+    "Local Revenue": 8281.9537
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1198.7995,
+    "State Revenue": 4699.7551,
+    "Local Revenue": 8569.4492
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1186.9346,
+    "State Revenue": 4917.9918,
+    "Local Revenue": 8678.7887
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1134.8829,
+    "State Revenue": 4823.6103,
+    "Local Revenue": 8775.8916
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1055.0576,
+    "State Revenue": 4812.9714,
+    "Local Revenue": 8791.0375
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1032.2388,
+    "State Revenue": 4679.2428,
+    "Local Revenue": 8780.2213
+  },
+  {
+    "State": "Nebraska",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1064.07,
+    "State Revenue": 4896.94,
+    "Local Revenue": 8756.11
+  },
+  {
+    "State": "Nevada",
+    "Year": "2002-01-01",
+    "Federal Revenue": 617.2524,
+    "State Revenue": 6406.2648,
+    "Local Revenue": 3448.533
+  },
+  {
+    "State": "Nevada",
+    "Year": "2003-01-01",
+    "Federal Revenue": 733.5505,
+    "State Revenue": 6359.0251,
+    "Local Revenue": 3515.035
+  },
+  {
+    "State": "Nevada",
+    "Year": "2004-01-01",
+    "Federal Revenue": 794.4271,
+    "State Revenue": 6637.8236,
+    "Local Revenue": 3561.1396
+  },
+  {
+    "State": "Nevada",
+    "Year": "2005-01-01",
+    "Federal Revenue": 843.3768,
+    "State Revenue": 6698.8214,
+    "Local Revenue": 3782.0436
+  },
+  {
+    "State": "Nevada",
+    "Year": "2006-01-01",
+    "Federal Revenue": 810.9054,
+    "State Revenue": 6696.6912,
+    "Local Revenue": 4050.1561
+  },
+  {
+    "State": "Nevada",
+    "Year": "2007-01-01",
+    "Federal Revenue": 828.3544,
+    "State Revenue": 6757.9095,
+    "Local Revenue": 4348.3975
+  },
+  {
+    "State": "Nevada",
+    "Year": "2008-01-01",
+    "Federal Revenue": 796.2081,
+    "State Revenue": 7068.2067,
+    "Local Revenue": 4430.1535
+  },
+  {
+    "State": "Nevada",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1182.2998,
+    "State Revenue": 6319.6265,
+    "Local Revenue": 4848.8652
+  },
+  {
+    "State": "Nevada",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1003.8632,
+    "State Revenue": 6557.7917,
+    "Local Revenue": 4371.1411
+  },
+  {
+    "State": "Nevada",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1210.918,
+    "State Revenue": 6392.3153,
+    "Local Revenue": 3626.2949
+  },
+  {
+    "State": "Nevada",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1064.7005,
+    "State Revenue": 6334.7819,
+    "Local Revenue": 3292.1926
+  },
+  {
+    "State": "Nevada",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1009.4614,
+    "State Revenue": 6583.1583,
+    "Local Revenue": 3043.2721
+  },
+  {
+    "State": "Nevada",
+    "Year": "2014-01-01",
+    "Federal Revenue": 958.7307,
+    "State Revenue": 6662.5923,
+    "Local Revenue": 2934.5356
+  },
+  {
+    "State": "Nevada",
+    "Year": "2015-01-01",
+    "Federal Revenue": 979.7697,
+    "State Revenue": 6796.9912,
+    "Local Revenue": 2980.28
+  },
+  {
+    "State": "Nevada",
+    "Year": "2016-01-01",
+    "Federal Revenue": 981.3371,
+    "State Revenue": 6888.0307,
+    "Local Revenue": 3088.0127
+  },
+  {
+    "State": "Nevada",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1020.7469,
+    "State Revenue": 7067.2328,
+    "Local Revenue": 3090.78
+  },
+  {
+    "State": "Nevada",
+    "Year": "2018-01-01",
+    "Federal Revenue": 973.6346,
+    "State Revenue": 7219.2394,
+    "Local Revenue": 3194.4533
+  },
+  {
+    "State": "Nevada",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1015.6601,
+    "State Revenue": 7085.4025,
+    "Local Revenue": 3307.1402
+  },
+  {
+    "State": "Nevada",
+    "Year": "2020-01-01",
+    "Federal Revenue": 913.22,
+    "State Revenue": 7313.84,
+    "Local Revenue": 3528.07
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2002-01-01",
+    "Federal Revenue": 607.5488,
+    "State Revenue": 6709.6781,
+    "Local Revenue": 5622.2158
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2003-01-01",
+    "Federal Revenue": 702.6651,
+    "State Revenue": 6641.925,
+    "Local Revenue": 6210.9417
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2004-01-01",
+    "Federal Revenue": 811.4442,
+    "State Revenue": 6583.2471,
+    "Local Revenue": 6978.0554
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2005-01-01",
+    "Federal Revenue": 836.0224,
+    "State Revenue": 5834.0387,
+    "Local Revenue": 8207.1081
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2006-01-01",
+    "Federal Revenue": 836.7825,
+    "State Revenue": 5954.3775,
+    "Local Revenue": 8408.005
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2007-01-01",
+    "Federal Revenue": 869.7476,
+    "State Revenue": 5945.3359,
+    "Local Revenue": 9058.0019
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2008-01-01",
+    "Federal Revenue": 844.8226,
+    "State Revenue": 6263.1143,
+    "Local Revenue": 9126.7388
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2009-01-01",
+    "Federal Revenue": 889.3438,
+    "State Revenue": 6068.9922,
+    "Local Revenue": 9491.6233
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1114.909,
+    "State Revenue": 6388.1015,
+    "Local Revenue": 9376.0599
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1136.0969,
+    "State Revenue": 6523.9069,
+    "Local Revenue": 9834.4261
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1109.6533,
+    "State Revenue": 6100.0686,
+    "Local Revenue": 9751.3748
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2013-01-01",
+    "Federal Revenue": 970.8019,
+    "State Revenue": 6042.5255,
+    "Local Revenue": 10020.753
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2014-01-01",
+    "Federal Revenue": 959.4533,
+    "State Revenue": 5946.5851,
+    "Local Revenue": 10527.7981
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2015-01-01",
+    "Federal Revenue": 979.3566,
+    "State Revenue": 5939.2756,
+    "Local Revenue": 10852.0927
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1016.6706,
+    "State Revenue": 6038.4925,
+    "Local Revenue": 11276.9266
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1000.1057,
+    "State Revenue": 5953.2349,
+    "Local Revenue": 11573.3485
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1020.2302,
+    "State Revenue": 6059.6993,
+    "Local Revenue": 12274.5929
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2019-01-01",
+    "Federal Revenue": 986.9419,
+    "State Revenue": 6023.0843,
+    "Local Revenue": 12579.1563
+  },
+  {
+    "State": "New Hampshire",
+    "Year": "2020-01-01",
+    "Federal Revenue": 948.54,
+    "State Revenue": 6283.18,
+    "Local Revenue": 12899.01
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2002-01-01",
+    "Federal Revenue": 782.2439,
+    "State Revenue": 7965.4387,
+    "Local Revenue": 10220.8519
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2003-01-01",
+    "Federal Revenue": 831.8301,
+    "State Revenue": 8482.9576,
+    "Local Revenue": 10635.8681
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2004-01-01",
+    "Federal Revenue": 902.8473,
+    "State Revenue": 8871.7938,
+    "Local Revenue": 11139.2592
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2005-01-01",
+    "Federal Revenue": 915.0696,
+    "State Revenue": 9113.092,
+    "Local Revenue": 11730.698
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2006-01-01",
+    "Federal Revenue": 920.6858,
+    "State Revenue": 8939.5906,
+    "Local Revenue": 11792.3147
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2007-01-01",
+    "Federal Revenue": 910.6365,
+    "State Revenue": 9274.9378,
+    "Local Revenue": 12313.0608
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2008-01-01",
+    "Federal Revenue": 872.2412,
+    "State Revenue": 9258.2288,
+    "Local Revenue": 12313.6739
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2009-01-01",
+    "Federal Revenue": 894.7374,
+    "State Revenue": 9173.1255,
+    "Local Revenue": 12554.4177
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2068.4597,
+    "State Revenue": 7850.9841,
+    "Local Revenue": 12425.9505
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1067.8279,
+    "State Revenue": 7760.4054,
+    "Local Revenue": 12217.4258
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1165.2224,
+    "State Revenue": 8840.459,
+    "Local Revenue": 12615.1818
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2013-01-01",
+    "Federal Revenue": 951.0774,
+    "State Revenue": 9124.8796,
+    "Local Revenue": 12404.7341
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2014-01-01",
+    "Federal Revenue": 937.0203,
+    "State Revenue": 9057.2568,
+    "Local Revenue": 12477.3162
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2015-01-01",
+    "Federal Revenue": 936.7007,
+    "State Revenue": 9268.3685,
+    "Local Revenue": 12702.1335
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2016-01-01",
+    "Federal Revenue": 936.9758,
+    "State Revenue": 9241.4363,
+    "Local Revenue": 12784.5627
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2017-01-01",
+    "Federal Revenue": 939.0833,
+    "State Revenue": 9378.9595,
+    "Local Revenue": 12584.4268
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2018-01-01",
+    "Federal Revenue": 948.0661,
+    "State Revenue": 9668.277,
+    "Local Revenue": 12635.8696
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2019-01-01",
+    "Federal Revenue": 981.3039,
+    "State Revenue": 10230.6767,
+    "Local Revenue": 12783.678
+  },
+  {
+    "State": "New Jersey",
+    "Year": "2020-01-01",
+    "Federal Revenue": 890.47,
+    "State Revenue": 10385.87,
+    "Local Revenue": 12733.67
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1591.1297,
+    "State Revenue": 8262.4118,
+    "Local Revenue": 1583.9241
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1691.9036,
+    "State Revenue": 8405.9418,
+    "Local Revenue": 1479.5202
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2004-01-01",
+    "Federal Revenue": 2105.6714,
+    "State Revenue": 8513.2317,
+    "Local Revenue": 1599.1944
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1979.081,
+    "State Revenue": 8653.4501,
+    "Local Revenue": 1641.3518
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1769.0425,
+    "State Revenue": 8695.1357,
+    "Local Revenue": 1741.1609
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1708.9671,
+    "State Revenue": 9076.2532,
+    "Local Revenue": 1798.0304
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1726.726,
+    "State Revenue": 9391.5054,
+    "Local Revenue": 2064.2442
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1895.8244,
+    "State Revenue": 9535.4672,
+    "Local Revenue": 2071.5477
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2699.4601,
+    "State Revenue": 8264.5336,
+    "Local Revenue": 2066.0384
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2235.2079,
+    "State Revenue": 8271.6775,
+    "Local Revenue": 2106.1068
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1691.4278,
+    "State Revenue": 8189.9211,
+    "Local Revenue": 2084.4595
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1764.6506,
+    "State Revenue": 8161.6606,
+    "Local Revenue": 2030.0415
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1563.0215,
+    "State Revenue": 8397.9618,
+    "Local Revenue": 2110.228
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1665.0356,
+    "State Revenue": 8647.456,
+    "Local Revenue": 2312.6461
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1711.6571,
+    "State Revenue": 8748.9158,
+    "Local Revenue": 2250.5907
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1793.9693,
+    "State Revenue": 8365.252,
+    "Local Revenue": 2415.8655
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1655.0149,
+    "State Revenue": 8337.4821,
+    "Local Revenue": 2359.1332
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1630.5153,
+    "State Revenue": 8430.9914,
+    "Local Revenue": 2519.1633
+  },
+  {
+    "State": "New Mexico",
+    "Year": "2020-01-01",
+    "Federal Revenue": 2007.79,
+    "State Revenue": 9760.58,
+    "Local Revenue": 2625.79
+  },
+  {
+    "State": "New York",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1119.5047,
+    "State Revenue": 8796.5909,
+    "Local Revenue": 8137.6069
+  },
+  {
+    "State": "New York",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1271.6439,
+    "State Revenue": 8592.2011,
+    "Local Revenue": 8716.1526
+  },
+  {
+    "State": "New York",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1497.1055,
+    "State Revenue": 8665.5978,
+    "Local Revenue": 9731.1791
+  },
+  {
+    "State": "New York",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1528.592,
+    "State Revenue": 9300.6985,
+    "Local Revenue": 10363.7167
+  },
+  {
+    "State": "New York",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1549.7016,
+    "State Revenue": 9364.2022,
+    "Local Revenue": 10811.5594
+  },
+  {
+    "State": "New York",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1495.7621,
+    "State Revenue": 10452.3357,
+    "Local Revenue": 11186.2195
+  },
+  {
+    "State": "New York",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1394.5918,
+    "State Revenue": 10710.5138,
+    "Local Revenue": 11485.7448
+  },
+  {
+    "State": "New York",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1421.2241,
+    "State Revenue": 11452.3266,
+    "Local Revenue": 11871.2771
+  },
+  {
+    "State": "New York",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1625.3684,
+    "State Revenue": 10168.9171,
+    "Local Revenue": 12512.8668
+  },
+  {
+    "State": "New York",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2224.885,
+    "State Revenue": 10079.2678,
+    "Local Revenue": 12705.4102
+  },
+  {
+    "State": "New York",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1613.0544,
+    "State Revenue": 9976.3761,
+    "Local Revenue": 13553.4469
+  },
+  {
+    "State": "New York",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1410.2884,
+    "State Revenue": 9991.7444,
+    "Local Revenue": 13711.3857
+  },
+  {
+    "State": "New York",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1399.1585,
+    "State Revenue": 10378.8905,
+    "Local Revenue": 13760.9155
+  },
+  {
+    "State": "New York",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1185.494,
+    "State Revenue": 10699.2968,
+    "Local Revenue": 14330.9703
+  },
+  {
+    "State": "New York",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1404.4972,
+    "State Revenue": 11435.6683,
+    "Local Revenue": 14944.649
+  },
+  {
+    "State": "New York",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1502.7772,
+    "State Revenue": 11669.9815,
+    "Local Revenue": 15402.7264
+  },
+  {
+    "State": "New York",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1244.5609,
+    "State Revenue": 11600.2424,
+    "Local Revenue": 16423.5614
+  },
+  {
+    "State": "New York",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1464.0983,
+    "State Revenue": 12041.0285,
+    "Local Revenue": 16807.533
+  },
+  {
+    "State": "New York",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1311.76,
+    "State Revenue": 12219.52,
+    "Local Revenue": 17192.18
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2002-01-01",
+    "Federal Revenue": 866.7035,
+    "State Revenue": 6605.5079,
+    "Local Revenue": 3333.7494
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2003-01-01",
+    "Federal Revenue": 955.4284,
+    "State Revenue": 6416.4584,
+    "Local Revenue": 3273.8573
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1054.3287,
+    "State Revenue": 6321.2996,
+    "Local Revenue": 3547.6337
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1102.2601,
+    "State Revenue": 6357.67,
+    "Local Revenue": 3493.8767
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1103.5452,
+    "State Revenue": 6378.3554,
+    "Local Revenue": 3425.4337
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1054.7437,
+    "State Revenue": 6659.1911,
+    "Local Revenue": 3912.8494
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1057.8756,
+    "State Revenue": 6830.9437,
+    "Local Revenue": 3718.6197
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1137.1615,
+    "State Revenue": 6792.5728,
+    "Local Revenue": 4790.5905
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1584.1357,
+    "State Revenue": 6122.8544,
+    "Local Revenue": 5950.9684
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1645.0763,
+    "State Revenue": 6018.3375,
+    "Local Revenue": 3917.0721
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1415.8094,
+    "State Revenue": 5913.7791,
+    "Local Revenue": 2559.0529
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1196.4214,
+    "State Revenue": 5976.4585,
+    "Local Revenue": 2466.8817
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1161.8434,
+    "State Revenue": 5962.0769,
+    "Local Revenue": 3101.9021
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1179.4609,
+    "State Revenue": 6064.1234,
+    "Local Revenue": 2511.4242
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1150.6832,
+    "State Revenue": 6120.9626,
+    "Local Revenue": 2661.2242
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1136.7912,
+    "State Revenue": 6252.4312,
+    "Local Revenue": 2775.7874
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1114.6967,
+    "State Revenue": 6327.7018,
+    "Local Revenue": 2843.3273
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1115.6403,
+    "State Revenue": 6616.9216,
+    "Local Revenue": 2987.7966
+  },
+  {
+    "State": "North Carolina",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1132.31,
+    "State Revenue": 6647.69,
+    "Local Revenue": 3010.2
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1513.8901,
+    "State Revenue": 4133.9712,
+    "Local Revenue": 5344.0436
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1716.6006,
+    "State Revenue": 4176.9528,
+    "Local Revenue": 5553.6581
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1829.3471,
+    "State Revenue": 4570.9971,
+    "Local Revenue": 5596.6966
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1985.7511,
+    "State Revenue": 4561.2969,
+    "Local Revenue": 5813.8005
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1992.3664,
+    "State Revenue": 4590.4192,
+    "Local Revenue": 6110.0538
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1959.8342,
+    "State Revenue": 4641.83,
+    "Local Revenue": 6473.464
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1865.6783,
+    "State Revenue": 4905.8706,
+    "Local Revenue": 6824.3078
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2009-01-01",
+    "Federal Revenue": 2029.7773,
+    "State Revenue": 5158.5175,
+    "Local Revenue": 6791.9136
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2010-01-01",
+    "Federal Revenue": 3473.1489,
+    "State Revenue": 6904.3886,
+    "Local Revenue": 5376.0013
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2259.1125,
+    "State Revenue": 7622.4477,
+    "Local Revenue": 5385.2962
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1854.8792,
+    "State Revenue": 7628.78,
+    "Local Revenue": 5630.0655
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1605.8097,
+    "State Revenue": 7542.8193,
+    "Local Revenue": 5836.7973
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1652.699,
+    "State Revenue": 9552.207,
+    "Local Revenue": 5016.9221
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1623.2168,
+    "State Revenue": 9560.2525,
+    "Local Revenue": 5177.9488
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1548.8442,
+    "State Revenue": 9817.6041,
+    "Local Revenue": 6062.4657
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1580.0835,
+    "State Revenue": 9940.8935,
+    "Local Revenue": 5623.2941
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1588.232,
+    "State Revenue": 9416.3455,
+    "Local Revenue": 5863.7469
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1749.5428,
+    "State Revenue": 9125.2965,
+    "Local Revenue": 5814.0726
+  },
+  {
+    "State": "North Dakota",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1661.27,
+    "State Revenue": 9109.88,
+    "Local Revenue": 5852.91
+  },
+  {
+    "State": "Ohio",
+    "Year": "2002-01-01",
+    "Federal Revenue": 789.565,
+    "State Revenue": 6278.2541,
+    "Local Revenue": 6940.2994
+  },
+  {
+    "State": "Ohio",
+    "Year": "2003-01-01",
+    "Federal Revenue": 859.4659,
+    "State Revenue": 6144.3952,
+    "Local Revenue": 6921.8155
+  },
+  {
+    "State": "Ohio",
+    "Year": "2004-01-01",
+    "Federal Revenue": 978.2424,
+    "State Revenue": 6263.6267,
+    "Local Revenue": 7022.0842
+  },
+  {
+    "State": "Ohio",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1066.7626,
+    "State Revenue": 6272.7311,
+    "Local Revenue": 7267.2506
+  },
+  {
+    "State": "Ohio",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1081.7159,
+    "State Revenue": 6356.1123,
+    "Local Revenue": 7571.6621
+  },
+  {
+    "State": "Ohio",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1047.3574,
+    "State Revenue": 6695.366,
+    "Local Revenue": 7797.6916
+  },
+  {
+    "State": "Ohio",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1061.704,
+    "State Revenue": 6813.7585,
+    "Local Revenue": 7572.3147
+  },
+  {
+    "State": "Ohio",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1061.4594,
+    "State Revenue": 7088.7291,
+    "Local Revenue": 7204.1879
+  },
+  {
+    "State": "Ohio",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1642.3173,
+    "State Revenue": 7099.5021,
+    "Local Revenue": 7317.6532
+  },
+  {
+    "State": "Ohio",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1781.265,
+    "State Revenue": 6913.2702,
+    "Local Revenue": 7324.5364
+  },
+  {
+    "State": "Ohio",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1391.8632,
+    "State Revenue": 6472.4102,
+    "Local Revenue": 7411.8173
+  },
+  {
+    "State": "Ohio",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1185.9254,
+    "State Revenue": 6194.5395,
+    "Local Revenue": 7592.464
+  },
+  {
+    "State": "Ohio",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1157.1794,
+    "State Revenue": 6489.04,
+    "Local Revenue": 7682.4473
+  },
+  {
+    "State": "Ohio",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1139.0879,
+    "State Revenue": 6260.0534,
+    "Local Revenue": 7909.7072
+  },
+  {
+    "State": "Ohio",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1138.0703,
+    "State Revenue": 6281.3349,
+    "Local Revenue": 8075.0841
+  },
+  {
+    "State": "Ohio",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1118.3234,
+    "State Revenue": 6334.328,
+    "Local Revenue": 8256.4062
+  },
+  {
+    "State": "Ohio",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1050.6096,
+    "State Revenue": 6379.2328,
+    "Local Revenue": 8455.8789
+  },
+  {
+    "State": "Ohio",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1087.8263,
+    "State Revenue": 6210.5803,
+    "Local Revenue": 8486.9953
+  },
+  {
+    "State": "Ohio",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1102.09,
+    "State Revenue": 6190.59,
+    "Local Revenue": 8771.36
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1156.5433,
+    "State Revenue": 5449.831,
+    "Local Revenue": 3534.3355
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1276.5466,
+    "State Revenue": 5144.4189,
+    "Local Revenue": 3596.7274
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1311.5484,
+    "State Revenue": 5214.164,
+    "Local Revenue": 3682.7201
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1447.3974,
+    "State Revenue": 5207.0421,
+    "Local Revenue": 3780.4868
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1334.6672,
+    "State Revenue": 5240.3204,
+    "Local Revenue": 3859.3176
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1283.2252,
+    "State Revenue": 5488.0198,
+    "Local Revenue": 4058.6833
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1216.128,
+    "State Revenue": 5600.8269,
+    "Local Revenue": 4128.9746
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1429.9497,
+    "State Revenue": 5606.5574,
+    "Local Revenue": 4174.3663
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1395.2296,
+    "State Revenue": 4827.1458,
+    "Local Revenue": 4269.7922
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1712.612,
+    "State Revenue": 4846.9191,
+    "Local Revenue": 3755.012
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1315.8301,
+    "State Revenue": 4883.7429,
+    "Local Revenue": 3712.5622
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1185.5473,
+    "State Revenue": 4785.7077,
+    "Local Revenue": 3759.0902
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1127.5971,
+    "State Revenue": 4875.3388,
+    "Local Revenue": 3853.316
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1115.0097,
+    "State Revenue": 4843.7133,
+    "Local Revenue": 3944.7441
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1107.1318,
+    "State Revenue": 4670.2899,
+    "Local Revenue": 4016.9974
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1086.4764,
+    "State Revenue": 4545.7761,
+    "Local Revenue": 4131.4259
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1039.8887,
+    "State Revenue": 4563.1447,
+    "Local Revenue": 4298.3772
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1118.5355,
+    "State Revenue": 5174.1664,
+    "Local Revenue": 4504.3738
+  },
+  {
+    "State": "Oklahoma",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1158.92,
+    "State Revenue": 5217.3,
+    "Local Revenue": 4579.89
+  },
+  {
+    "State": "Oregon",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1037.601,
+    "State Revenue": 6988.8034,
+    "Local Revenue": 4399.5806
+  },
+  {
+    "State": "Oregon",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1041.4018,
+    "State Revenue": 6001.709,
+    "Local Revenue": 4662.0069
+  },
+  {
+    "State": "Oregon",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1163.6336,
+    "State Revenue": 6711.3663,
+    "Local Revenue": 4861.7396
+  },
+  {
+    "State": "Oregon",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1213.7315,
+    "State Revenue": 5946.0738,
+    "Local Revenue": 4966.2364
+  },
+  {
+    "State": "Oregon",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1200.9884,
+    "State Revenue": 6358.7116,
+    "Local Revenue": 4943.6716
+  },
+  {
+    "State": "Oregon",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1182.2129,
+    "State Revenue": 6552.4311,
+    "Local Revenue": 4870.0091
+  },
+  {
+    "State": "Oregon",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1110.0025,
+    "State Revenue": 6894.1061,
+    "Local Revenue": 5052.6135
+  },
+  {
+    "State": "Oregon",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1399.7576,
+    "State Revenue": 6648.6477,
+    "Local Revenue": 4970.6766
+  },
+  {
+    "State": "Oregon",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1722.575,
+    "State Revenue": 6244.5466,
+    "Local Revenue": 5108.1905
+  },
+  {
+    "State": "Oregon",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1764.8204,
+    "State Revenue": 5807.8164,
+    "Local Revenue": 5033.908
+  },
+  {
+    "State": "Oregon",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1099.41,
+    "State Revenue": 6062.9848,
+    "Local Revenue": 4962.3199
+  },
+  {
+    "State": "Oregon",
+    "Year": "2013-01-01",
+    "Federal Revenue": 929.8631,
+    "State Revenue": 5996.561,
+    "Local Revenue": 4944.5375
+  },
+  {
+    "State": "Oregon",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1007.7243,
+    "State Revenue": 6557.2259,
+    "Local Revenue": 5137.7146
+  },
+  {
+    "State": "Oregon",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1099.8779,
+    "State Revenue": 7009.7162,
+    "Local Revenue": 5355.5511
+  },
+  {
+    "State": "Oregon",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1095.5016,
+    "State Revenue": 7261.3978,
+    "Local Revenue": 5506.0381
+  },
+  {
+    "State": "Oregon",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1025.6236,
+    "State Revenue": 7385.268,
+    "Local Revenue": 5655.6606
+  },
+  {
+    "State": "Oregon",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1069.5112,
+    "State Revenue": 8034.0611,
+    "Local Revenue": 6025.6391
+  },
+  {
+    "State": "Oregon",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1053.7647,
+    "State Revenue": 8040.6295,
+    "Local Revenue": 6418.302
+  },
+  {
+    "State": "Oregon",
+    "Year": "2020-01-01",
+    "Federal Revenue": 997.23,
+    "State Revenue": 8465.74,
+    "Local Revenue": 6381.16
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1050.7847,
+    "State Revenue": 5403.3342,
+    "Local Revenue": 7980.7884
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1136.8839,
+    "State Revenue": 5535.8135,
+    "Local Revenue": 8419.8021
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1263.0545,
+    "State Revenue": 5642.8129,
+    "Local Revenue": 8819.2219
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1333.1345,
+    "State Revenue": 5837.4476,
+    "Local Revenue": 9213.5854
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1318.8383,
+    "State Revenue": 5860.3872,
+    "Local Revenue": 9557.6272
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1270.293,
+    "State Revenue": 5993.0061,
+    "Local Revenue": 9616.1287
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1315.4717,
+    "State Revenue": 6358.5203,
+    "Local Revenue": 10105.1905
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1280.2595,
+    "State Revenue": 6968.7755,
+    "Local Revenue": 9757.4915
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2086.9278,
+    "State Revenue": 6611.0714,
+    "Local Revenue": 9831.2101
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2348.5976,
+    "State Revenue": 6450.7617,
+    "Local Revenue": 10037.5802
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1474.612,
+    "State Revenue": 6572.5478,
+    "Local Revenue": 10138.5499
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1403.1836,
+    "State Revenue": 6686.5172,
+    "Local Revenue": 10415.8428
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1236.2261,
+    "State Revenue": 7005.8978,
+    "Local Revenue": 10613.7969
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1270.6536,
+    "State Revenue": 7203.4069,
+    "Local Revenue": 11024.6076
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1307.654,
+    "State Revenue": 7683.7912,
+    "Local Revenue": 11371.3185
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1347.0089,
+    "State Revenue": 8109.6916,
+    "Local Revenue": 11512.8032
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1364.6893,
+    "State Revenue": 8114.1052,
+    "Local Revenue": 11707.9286
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1393.4152,
+    "State Revenue": 8164.848,
+    "Local Revenue": 11984.0289
+  },
+  {
+    "State": "Pennsylvania",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1342.03,
+    "State Revenue": 8297.22,
+    "Local Revenue": 11884.49
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2002-01-01",
+    "Federal Revenue": 889.5765,
+    "State Revenue": 6235.8294,
+    "Local Revenue": 7867.1745
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2003-01-01",
+    "Federal Revenue": 979.2354,
+    "State Revenue": 6406.5401,
+    "Local Revenue": 8065.4248
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1165.5413,
+    "State Revenue": 6513.1466,
+    "Local Revenue": 8417.3635
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1275.3186,
+    "State Revenue": 6530.1246,
+    "Local Revenue": 8740.59
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1287.879,
+    "State Revenue": 6869.1145,
+    "Local Revenue": 9015.864
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1407.9719,
+    "State Revenue": 6971.3161,
+    "Local Revenue": 9420.3683
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1394.1299,
+    "State Revenue": 7069.3735,
+    "Local Revenue": 9806.2114
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1746.5657,
+    "State Revenue": 6479.5645,
+    "Local Revenue": 10126.1976
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2080.661,
+    "State Revenue": 6198.8275,
+    "Local Revenue": 10180.4062
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1957.9309,
+    "State Revenue": 6428.9519,
+    "Local Revenue": 9999.7914
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1684.2372,
+    "State Revenue": 6410.0462,
+    "Local Revenue": 9966.0085
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1576.4343,
+    "State Revenue": 6862.4919,
+    "Local Revenue": 9996.0251
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1511.9587,
+    "State Revenue": 7031.0131,
+    "Local Revenue": 10012.3965
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1492.0967,
+    "State Revenue": 7342.3429,
+    "Local Revenue": 10097.5382
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1414.864,
+    "State Revenue": 7591.3754,
+    "Local Revenue": 10172.3648
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1411.7418,
+    "State Revenue": 7884.547,
+    "Local Revenue": 10150.1783
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1309.7471,
+    "State Revenue": 7898.826,
+    "Local Revenue": 10122.8693
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1391.221,
+    "State Revenue": 7943.2905,
+    "Local Revenue": 10137.9801
+  },
+  {
+    "State": "Rhode Island",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1496.02,
+    "State Revenue": 7866.02,
+    "Local Revenue": 10212.19
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1058.9433,
+    "State Revenue": 6122.7641,
+    "Local Revenue": 4856.4046
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1093.5087,
+    "State Revenue": 5641.4824,
+    "Local Revenue": 4909.8817
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1224.1819,
+    "State Revenue": 5441.6072,
+    "Local Revenue": 5153.0489
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1223.6896,
+    "State Revenue": 5421.1408,
+    "Local Revenue": 5464.8651
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1228.6113,
+    "State Revenue": 5592.7968,
+    "Local Revenue": 5649.5686
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1222.9632,
+    "State Revenue": 5606.0987,
+    "Local Revenue": 5962.4276
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1186.777,
+    "State Revenue": 6697.6306,
+    "Local Revenue": 5330.4088
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1232.664,
+    "State Revenue": 6132.5047,
+    "Local Revenue": 5482.7564
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1755.6063,
+    "State Revenue": 5602.069,
+    "Local Revenue": 5483.9493
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1698.9023,
+    "State Revenue": 5445.7793,
+    "Local Revenue": 5514.956
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1339.9233,
+    "State Revenue": 5665.6795,
+    "Local Revenue": 5434.132
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1253.3154,
+    "State Revenue": 5879.5818,
+    "Local Revenue": 5555.1399
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1219.6394,
+    "State Revenue": 5858.3966,
+    "Local Revenue": 5539.1336
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1232.6068,
+    "State Revenue": 6036.3601,
+    "Local Revenue": 5626.9442
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1221.4691,
+    "State Revenue": 6191.9644,
+    "Local Revenue": 5878.8328
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1211.0549,
+    "State Revenue": 6555.2108,
+    "Local Revenue": 6022.378
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1181.0648,
+    "State Revenue": 6631.7138,
+    "Local Revenue": 6120.4063
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1156.4065,
+    "State Revenue": 6654.3253,
+    "Local Revenue": 6334.9106
+  },
+  {
+    "State": "South Carolina",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1149.94,
+    "State Revenue": 6792.37,
+    "Local Revenue": 6381.43
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1444.0149,
+    "State Revenue": 3931.0314,
+    "Local Revenue": 5157.6953
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1643.9082,
+    "State Revenue": 3637.4182,
+    "Local Revenue": 5374.5621
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1724.4106,
+    "State Revenue": 3791.0297,
+    "Local Revenue": 5573.127
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1899.2151,
+    "State Revenue": 3764.4761,
+    "Local Revenue": 5621.8726
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1885.3535,
+    "State Revenue": 3779.3715,
+    "Local Revenue": 5849.4079
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1811.1769,
+    "State Revenue": 3866.3514,
+    "Local Revenue": 6116.883
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1808.216,
+    "State Revenue": 3944.9444,
+    "Local Revenue": 6118.7414
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1911.0104,
+    "State Revenue": 3907.3954,
+    "Local Revenue": 6063.1791
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2406.8076,
+    "State Revenue": 3828.9441,
+    "Local Revenue": 6151.3992
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2431.0999,
+    "State Revenue": 3471.1245,
+    "Local Revenue": 6097.3134
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1882.025,
+    "State Revenue": 3496.9336,
+    "Local Revenue": 6096.0889
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1661.7142,
+    "State Revenue": 3481.6912,
+    "Local Revenue": 6072.2678
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1560.4268,
+    "State Revenue": 3465.3634,
+    "Local Revenue": 6227.0693
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1692.7663,
+    "State Revenue": 3482.9758,
+    "Local Revenue": 6382.8575
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1584.1777,
+    "State Revenue": 3533.6234,
+    "Local Revenue": 6583.0198
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1558.2974,
+    "State Revenue": 4163.0079,
+    "Local Revenue": 6494.5489
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1684.7411,
+    "State Revenue": 4259.5164,
+    "Local Revenue": 6457.2343
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1693.8741,
+    "State Revenue": 4223.5108,
+    "Local Revenue": 6478.7656
+  },
+  {
+    "State": "South Dakota",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1722.23,
+    "State Revenue": 4166.21,
+    "Local Revenue": 6522.01
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2002-01-01",
+    "Federal Revenue": 885.49,
+    "State Revenue": 4093.207,
+    "Local Revenue": 4288.9557
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2003-01-01",
+    "Federal Revenue": 949.8334,
+    "State Revenue": 4135.1741,
+    "Local Revenue": 4234.3579
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1049.8636,
+    "State Revenue": 4160.6647,
+    "Local Revenue": 4373.8142
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1122.6996,
+    "State Revenue": 4224.2253,
+    "Local Revenue": 4318.8539
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1075.8318,
+    "State Revenue": 4200.194,
+    "Local Revenue": 4438.532
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1037.9167,
+    "State Revenue": 4305.7943,
+    "Local Revenue": 4431.5241
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1060.9991,
+    "State Revenue": 4683.034,
+    "Local Revenue": 4418.2916
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1074.4639,
+    "State Revenue": 4692.1394,
+    "Local Revenue": 4210.024
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1337.0243,
+    "State Revenue": 4684.6354,
+    "Local Revenue": 4206.507
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1501.7767,
+    "State Revenue": 4666.9712,
+    "Local Revenue": 4031.9748
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1424.1871,
+    "State Revenue": 4548.9034,
+    "Local Revenue": 4158.0652
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1306.0623,
+    "State Revenue": 4590.6089,
+    "Local Revenue": 4160.7733
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1208.2094,
+    "State Revenue": 4760.5351,
+    "Local Revenue": 4195.5158
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1227.9216,
+    "State Revenue": 4675.3074,
+    "Local Revenue": 4407.7951
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1184.6129,
+    "State Revenue": 4750.3627,
+    "Local Revenue": 4395.9366
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1227.0738,
+    "State Revenue": 4900.0367,
+    "Local Revenue": 4625.9766
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1206.3534,
+    "State Revenue": 5077.656,
+    "Local Revenue": 4651.8257
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1188.8325,
+    "State Revenue": 5032.5057,
+    "Local Revenue": 4695.4863
+  },
+  {
+    "State": "Tennessee",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1106.74,
+    "State Revenue": 5165.01,
+    "Local Revenue": 4699.63
+  },
+  {
+    "State": "Texas",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1032.908,
+    "State Revenue": 4540.4429,
+    "Local Revenue": 5899.9982
+  },
+  {
+    "State": "Texas",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1129.8196,
+    "State Revenue": 4598.2721,
+    "Local Revenue": 6043.7844
+  },
+  {
+    "State": "Texas",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1225.4122,
+    "State Revenue": 4276.4945,
+    "Local Revenue": 6134.5952
+  },
+  {
+    "State": "Texas",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1268.0715,
+    "State Revenue": 4030.4319,
+    "Local Revenue": 6358.5155
+  },
+  {
+    "State": "Texas",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1376.011,
+    "State Revenue": 3923.8874,
+    "Local Revenue": 6611.068
+  },
+  {
+    "State": "Texas",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1235.2652,
+    "State Revenue": 4454.6156,
+    "Local Revenue": 6658.2332
+  },
+  {
+    "State": "Texas",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1194.2271,
+    "State Revenue": 5285.2946,
+    "Local Revenue": 5750.1464
+  },
+  {
+    "State": "Texas",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1267.3508,
+    "State Revenue": 5083.151,
+    "Local Revenue": 6011.4964
+  },
+  {
+    "State": "Texas",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2004.0707,
+    "State Revenue": 4743.636,
+    "Local Revenue": 5900.0388
+  },
+  {
+    "State": "Texas",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1895.4926,
+    "State Revenue": 4757.6551,
+    "Local Revenue": 5676.923
+  },
+  {
+    "State": "Texas",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1432.938,
+    "State Revenue": 4621.1151,
+    "Local Revenue": 5571.1272
+  },
+  {
+    "State": "Texas",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1293.1313,
+    "State Revenue": 4284.6683,
+    "Local Revenue": 5675.1878
+  },
+  {
+    "State": "Texas",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1248.2801,
+    "State Revenue": 4537.0148,
+    "Local Revenue": 5851.8824
+  },
+  {
+    "State": "Texas",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1266.4793,
+    "State Revenue": 4554.1012,
+    "Local Revenue": 6214.0603
+  },
+  {
+    "State": "Texas",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1272.2124,
+    "State Revenue": 4702.265,
+    "Local Revenue": 6441.7829
+  },
+  {
+    "State": "Texas",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1243.3684,
+    "State Revenue": 4375.1657,
+    "Local Revenue": 6654.0171
+  },
+  {
+    "State": "Texas",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1280.2801,
+    "State Revenue": 4240.5111,
+    "Local Revenue": 7047.3209
+  },
+  {
+    "State": "Texas",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1360.7555,
+    "State Revenue": 4234.3906,
+    "Local Revenue": 7490.1286
+  },
+  {
+    "State": "Texas",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1323.83,
+    "State Revenue": 4561.82,
+    "Local Revenue": 7460.26
+  },
+  {
+    "State": "United States",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1001.1833,
+    "State Revenue": 6348.5192,
+    "Local Revenue": 5501.8873
+  },
+  {
+    "State": "United States",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1091.7285,
+    "State Revenue": 6393.6688,
+    "Local Revenue": 5575.2186
+  },
+  {
+    "State": "United States",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1191.9862,
+    "State Revenue": 6294.5644,
+    "Local Revenue": 5867.0628
+  },
+  {
+    "State": "United States",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1238.0899,
+    "State Revenue": 6406.7625,
+    "Local Revenue": 5989.3418
+  },
+  {
+    "State": "United States",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1259.0016,
+    "State Revenue": 6489.6359,
+    "Local Revenue": 6180.7663
+  },
+  {
+    "State": "United States",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1208.2159,
+    "State Revenue": 6890.1432,
+    "Local Revenue": 6391.1693
+  },
+  {
+    "State": "United States",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1182.0978,
+    "State Revenue": 7054.8621,
+    "Local Revenue": 6381.8674
+  },
+  {
+    "State": "United States",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1388.9344,
+    "State Revenue": 6861.5029,
+    "Local Revenue": 6432.6403
+  },
+  {
+    "State": "United States",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1819.7817,
+    "State Revenue": 6341.231,
+    "Local Revenue": 6425.7142
+  },
+  {
+    "State": "United States",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1776.8774,
+    "State Revenue": 6418.5824,
+    "Local Revenue": 6254.7649
+  },
+  {
+    "State": "United States",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1396.0577,
+    "State Revenue": 6341.7464,
+    "Local Revenue": 6204.0728
+  },
+  {
+    "State": "United States",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1252.0813,
+    "State Revenue": 6303.2354,
+    "Local Revenue": 6205.1801
+  },
+  {
+    "State": "United States",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1197.1845,
+    "State Revenue": 6536.4351,
+    "Local Revenue": 6253.1372
+  },
+  {
+    "State": "United States",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1194.4405,
+    "State Revenue": 6753.9767,
+    "Local Revenue": 6423.0458
+  },
+  {
+    "State": "United States",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1203.5323,
+    "State Revenue": 7068.8775,
+    "Local Revenue": 6646.4841
+  },
+  {
+    "State": "United States",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1207.2172,
+    "State Revenue": 7130.3119,
+    "Local Revenue": 6795.6853
+  },
+  {
+    "State": "United States",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1180.339,
+    "State Revenue": 7149.2527,
+    "Local Revenue": 7011.104
+  },
+  {
+    "State": "United States",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1224.621,
+    "State Revenue": 7424.7381,
+    "Local Revenue": 7244.6985
+  },
+  {
+    "State": "United States",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1203.51,
+    "State Revenue": 7548.16,
+    "Local Revenue": 7313.01
+  },
+  {
+    "State": "Utah",
+    "Year": "2002-01-01",
+    "Federal Revenue": 717.004,
+    "State Revenue": 5050.3483,
+    "Local Revenue": 2839.1793
+  },
+  {
+    "State": "Utah",
+    "Year": "2003-01-01",
+    "Federal Revenue": 769.3104,
+    "State Revenue": 4700.762,
+    "Local Revenue": 2938.0875
+  },
+  {
+    "State": "Utah",
+    "Year": "2004-01-01",
+    "Federal Revenue": 848.7547,
+    "State Revenue": 4692.5361,
+    "Local Revenue": 2948.9657
+  },
+  {
+    "State": "Utah",
+    "Year": "2005-01-01",
+    "Federal Revenue": 897.5424,
+    "State Revenue": 4755.6405,
+    "Local Revenue": 3084.1057
+  },
+  {
+    "State": "Utah",
+    "Year": "2006-01-01",
+    "Federal Revenue": 893.0241,
+    "State Revenue": 4755.7816,
+    "Local Revenue": 3147.5106
+  },
+  {
+    "State": "Utah",
+    "Year": "2007-01-01",
+    "Federal Revenue": 859.9539,
+    "State Revenue": 4945.7369,
+    "Local Revenue": 3325.7953
+  },
+  {
+    "State": "Utah",
+    "Year": "2008-01-01",
+    "Federal Revenue": 832.1586,
+    "State Revenue": 5163.9407,
+    "Local Revenue": 3168.255
+  },
+  {
+    "State": "Utah",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1204.8571,
+    "State Revenue": 5006.526,
+    "Local Revenue": 3321.723
+  },
+  {
+    "State": "Utah",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1234.2987,
+    "State Revenue": 4700.611,
+    "Local Revenue": 3254.701
+  },
+  {
+    "State": "Utah",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1068.6077,
+    "State Revenue": 4391.7658,
+    "Local Revenue": 3365.9513
+  },
+  {
+    "State": "Utah",
+    "Year": "2012-01-01",
+    "Federal Revenue": 871.0168,
+    "State Revenue": 4405.1585,
+    "Local Revenue": 3324.1548
+  },
+  {
+    "State": "Utah",
+    "Year": "2013-01-01",
+    "Federal Revenue": 810.2487,
+    "State Revenue": 4421.0718,
+    "Local Revenue": 3262.3316
+  },
+  {
+    "State": "Utah",
+    "Year": "2014-01-01",
+    "Federal Revenue": 739.3489,
+    "State Revenue": 4535.482,
+    "Local Revenue": 3170.8982
+  },
+  {
+    "State": "Utah",
+    "Year": "2015-01-01",
+    "Federal Revenue": 758.044,
+    "State Revenue": 4467.5285,
+    "Local Revenue": 3430.7865
+  },
+  {
+    "State": "Utah",
+    "Year": "2016-01-01",
+    "Federal Revenue": 733.4084,
+    "State Revenue": 4715.3963,
+    "Local Revenue": 3757.2765
+  },
+  {
+    "State": "Utah",
+    "Year": "2017-01-01",
+    "Federal Revenue": 763.257,
+    "State Revenue": 4821.1931,
+    "Local Revenue": 3718.4964
+  },
+  {
+    "State": "Utah",
+    "Year": "2018-01-01",
+    "Federal Revenue": 726.7732,
+    "State Revenue": 4970.3534,
+    "Local Revenue": 3797.8943
+  },
+  {
+    "State": "Utah",
+    "Year": "2019-01-01",
+    "Federal Revenue": 704.3113,
+    "State Revenue": 5079.7124,
+    "Local Revenue": 4125.1152
+  },
+  {
+    "State": "Utah",
+    "Year": "2020-01-01",
+    "Federal Revenue": 709.6,
+    "State Revenue": 5153.31,
+    "Local Revenue": 4163.66
+  },
+  {
+    "State": "Vermont",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1019.3055,
+    "State Revenue": 11348.0242,
+    "Local Revenue": 3507.6937
+  },
+  {
+    "State": "Vermont",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1175.0033,
+    "State Revenue": 11449.783,
+    "Local Revenue": 3887.7797
+  },
+  {
+    "State": "Vermont",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1378.1101,
+    "State Revenue": 11677.9042,
+    "Local Revenue": 4106.2404
+  },
+  {
+    "State": "Vermont",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1356.4327,
+    "State Revenue": 15567.7392,
+    "Local Revenue": 923.0281
+  },
+  {
+    "State": "Vermont",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1439.5721,
+    "State Revenue": 16149.0384,
+    "Local Revenue": 941.7004
+  },
+  {
+    "State": "Vermont",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1345.1889,
+    "State Revenue": 17128.5051,
+    "Local Revenue": 1044.1055
+  },
+  {
+    "State": "Vermont",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1280.9918,
+    "State Revenue": 17486.7663,
+    "Local Revenue": 995.0171
+  },
+  {
+    "State": "Vermont",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1393.8246,
+    "State Revenue": 18181.4828,
+    "Local Revenue": 930.407
+  },
+  {
+    "State": "Vermont",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2270.7065,
+    "State Revenue": 17358.2789,
+    "Local Revenue": 943.1535
+  },
+  {
+    "State": "Vermont",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1429.2715,
+    "State Revenue": 17784.1363,
+    "Local Revenue": 940.5074
+  },
+  {
+    "State": "Vermont",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1599.4985,
+    "State Revenue": 17637.661,
+    "Local Revenue": 969.8089
+  },
+  {
+    "State": "Vermont",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1429.6793,
+    "State Revenue": 17844.9295,
+    "Local Revenue": 904.835
+  },
+  {
+    "State": "Vermont",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1274.556,
+    "State Revenue": 18607.4055,
+    "Local Revenue": 929.3784
+  },
+  {
+    "State": "Vermont",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1344.1817,
+    "State Revenue": 19736.4822,
+    "Local Revenue": 976.3998
+  },
+  {
+    "State": "Vermont",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1373.4508,
+    "State Revenue": 19818.1175,
+    "Local Revenue": 775.1672
+  },
+  {
+    "State": "Vermont",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1332.7711,
+    "State Revenue": 19716.0745,
+    "Local Revenue": 783.4847
+  },
+  {
+    "State": "Vermont",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1353.9061,
+    "State Revenue": 20266.3613,
+    "Local Revenue": 704.4501
+  },
+  {
+    "State": "Vermont",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1359.953,
+    "State Revenue": 20684.8614,
+    "Local Revenue": 734.6345
+  },
+  {
+    "State": "Vermont",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1492.68,
+    "State Revenue": 21399.74,
+    "Local Revenue": 682.62
+  },
+  {
+    "State": "Virginia",
+    "Year": "2002-01-01",
+    "Federal Revenue": 776.0347,
+    "State Revenue": 4973.4697,
+    "Local Revenue": 6379.9406
+  },
+  {
+    "State": "Virginia",
+    "Year": "2003-01-01",
+    "Federal Revenue": 839.8411,
+    "State Revenue": 4913.3715,
+    "Local Revenue": 6660.6597
+  },
+  {
+    "State": "Virginia",
+    "Year": "2004-01-01",
+    "Federal Revenue": 888.3185,
+    "State Revenue": 4922.9238,
+    "Local Revenue": 6917.8665
+  },
+  {
+    "State": "Virginia",
+    "Year": "2005-01-01",
+    "Federal Revenue": 921.8739,
+    "State Revenue": 5431.8102,
+    "Local Revenue": 7007.4548
+  },
+  {
+    "State": "Virginia",
+    "Year": "2006-01-01",
+    "Federal Revenue": 923.8412,
+    "State Revenue": 5462.2993,
+    "Local Revenue": 7415.4815
+  },
+  {
+    "State": "Virginia",
+    "Year": "2007-01-01",
+    "Federal Revenue": 919.321,
+    "State Revenue": 5986.0484,
+    "Local Revenue": 7405.5912
+  },
+  {
+    "State": "Virginia",
+    "Year": "2008-01-01",
+    "Federal Revenue": 886.3273,
+    "State Revenue": 5882.791,
+    "Local Revenue": 7583.7877
+  },
+  {
+    "State": "Virginia",
+    "Year": "2009-01-01",
+    "Federal Revenue": 887.486,
+    "State Revenue": 6131.0664,
+    "Local Revenue": 7539.0463
+  },
+  {
+    "State": "Virginia",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1460.9242,
+    "State Revenue": 5234.8677,
+    "Local Revenue": 7315.2201
+  },
+  {
+    "State": "Virginia",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1327.9737,
+    "State Revenue": 4978.8017,
+    "Local Revenue": 7107.9286
+  },
+  {
+    "State": "Virginia",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1227.9144,
+    "State Revenue": 5003.6434,
+    "Local Revenue": 6980.2999
+  },
+  {
+    "State": "Virginia",
+    "Year": "2013-01-01",
+    "Federal Revenue": 974.7379,
+    "State Revenue": 5163.6859,
+    "Local Revenue": 7098.4517
+  },
+  {
+    "State": "Virginia",
+    "Year": "2014-01-01",
+    "Federal Revenue": 868.1993,
+    "State Revenue": 5154.991,
+    "Local Revenue": 6946.8865
+  },
+  {
+    "State": "Virginia",
+    "Year": "2015-01-01",
+    "Federal Revenue": 859.7158,
+    "State Revenue": 5300.2202,
+    "Local Revenue": 7073.6348
+  },
+  {
+    "State": "Virginia",
+    "Year": "2016-01-01",
+    "Federal Revenue": 890.282,
+    "State Revenue": 5298.5184,
+    "Local Revenue": 7253.8278
+  },
+  {
+    "State": "Virginia",
+    "Year": "2017-01-01",
+    "Federal Revenue": 932.415,
+    "State Revenue": 5409.6203,
+    "Local Revenue": 7276.7402
+  },
+  {
+    "State": "Virginia",
+    "Year": "2018-01-01",
+    "Federal Revenue": 884.373,
+    "State Revenue": 5456.2583,
+    "Local Revenue": 7314.0066
+  },
+  {
+    "State": "Virginia",
+    "Year": "2019-01-01",
+    "Federal Revenue": 921.8257,
+    "State Revenue": 5574.8188,
+    "Local Revenue": 7377.3384
+  },
+  {
+    "State": "Virginia",
+    "Year": "2020-01-01",
+    "Federal Revenue": 866.1,
+    "State Revenue": 5667.59,
+    "Local Revenue": 7464.4
+  },
+  {
+    "State": "Washington",
+    "Year": "2002-01-01",
+    "Federal Revenue": 916.2905,
+    "State Revenue": 7433.1368,
+    "Local Revenue": 3426.8008
+  },
+  {
+    "State": "Washington",
+    "Year": "2003-01-01",
+    "Federal Revenue": 978.2463,
+    "State Revenue": 7428.3736,
+    "Local Revenue": 3490.2391
+  },
+  {
+    "State": "Washington",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1014.7649,
+    "State Revenue": 7334.3504,
+    "Local Revenue": 3522.1841
+  },
+  {
+    "State": "Washington",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1048.0006,
+    "State Revenue": 7353.5719,
+    "Local Revenue": 3597.4971
+  },
+  {
+    "State": "Washington",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1005.2356,
+    "State Revenue": 7394.6609,
+    "Local Revenue": 3703.7577
+  },
+  {
+    "State": "Washington",
+    "Year": "2007-01-01",
+    "Federal Revenue": 984.335,
+    "State Revenue": 7787.5576,
+    "Local Revenue": 3913.404
+  },
+  {
+    "State": "Washington",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1057.0492,
+    "State Revenue": 8181.8675,
+    "Local Revenue": 3869.434
+  },
+  {
+    "State": "Washington",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1602.6406,
+    "State Revenue": 8266.8699,
+    "Local Revenue": 3925.9134
+  },
+  {
+    "State": "Washington",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1606.8172,
+    "State Revenue": 7949.7811,
+    "Local Revenue": 4012.3193
+  },
+  {
+    "State": "Washington",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1526.0653,
+    "State Revenue": 7541.47,
+    "Local Revenue": 4117.6892
+  },
+  {
+    "State": "Washington",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1143.7975,
+    "State Revenue": 7575.6643,
+    "Local Revenue": 4122.3946
+  },
+  {
+    "State": "Washington",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1102.6579,
+    "State Revenue": 7574.752,
+    "Local Revenue": 4176.6508
+  },
+  {
+    "State": "Washington",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1066.3196,
+    "State Revenue": 8107.427,
+    "Local Revenue": 4223.62
+  },
+  {
+    "State": "Washington",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1050.6237,
+    "State Revenue": 8407.4352,
+    "Local Revenue": 4338.0716
+  },
+  {
+    "State": "Washington",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1093.5362,
+    "State Revenue": 9176.3846,
+    "Local Revenue": 4528.0162
+  },
+  {
+    "State": "Washington",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1031.0622,
+    "State Revenue": 9482.4834,
+    "Local Revenue": 4591.0234
+  },
+  {
+    "State": "Washington",
+    "Year": "2018-01-01",
+    "Federal Revenue": 987.4245,
+    "State Revenue": 10224.0338,
+    "Local Revenue": 4735.2395
+  },
+  {
+    "State": "Washington",
+    "Year": "2019-01-01",
+    "Federal Revenue": 964.9893,
+    "State Revenue": 12116.6892,
+    "Local Revenue": 4436.2812
+  },
+  {
+    "State": "Washington",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1028.49,
+    "State Revenue": 12480.72,
+    "Local Revenue": 4175.85
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1320.5095,
+    "State Revenue": 7426.2634,
+    "Local Revenue": 3603.9652
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1342.0192,
+    "State Revenue": 7625.7946,
+    "Local Revenue": 3562.7761
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1432.5898,
+    "State Revenue": 7621.9964,
+    "Local Revenue": 3648.4232
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1580.7579,
+    "State Revenue": 7719.538,
+    "Local Revenue": 3633.1287
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1602.1541,
+    "State Revenue": 7624.8905,
+    "Local Revenue": 3746.0326
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1584.2961,
+    "State Revenue": 7515.3006,
+    "Local Revenue": 3883.8717
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1382.7177,
+    "State Revenue": 7433.0585,
+    "Local Revenue": 3977.3338
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1510.7218,
+    "State Revenue": 7627.1177,
+    "Local Revenue": 4027.4448
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2010-01-01",
+    "Federal Revenue": 2163.8029,
+    "State Revenue": 7065.6756,
+    "Local Revenue": 4146.1416
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2104.8383,
+    "State Revenue": 7952.0146,
+    "Local Revenue": 4234.7682
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1732.3444,
+    "State Revenue": 8072.1461,
+    "Local Revenue": 6060.8593
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1509.0887,
+    "State Revenue": 7984.8742,
+    "Local Revenue": 4192.0723
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1374.8861,
+    "State Revenue": 7945.4252,
+    "Local Revenue": 4361.9297
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1411.318,
+    "State Revenue": 7696.8845,
+    "Local Revenue": 4365.7371
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1397.1109,
+    "State Revenue": 7269.2808,
+    "Local Revenue": 4512.7252
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1567.3405,
+    "State Revenue": 7265.2693,
+    "Local Revenue": 4658.8095
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1393.1402,
+    "State Revenue": 7233.3508,
+    "Local Revenue": 4484.2619
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1525.0901,
+    "State Revenue": 7423.7121,
+    "Local Revenue": 4474.0405
+  },
+  {
+    "State": "West Virginia",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1638.92,
+    "State Revenue": 7786.82,
+    "Local Revenue": 4737.12
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2002-01-01",
+    "Federal Revenue": 742.3895,
+    "State Revenue": 7721.908,
+    "Local Revenue": 5626.4467
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2003-01-01",
+    "Federal Revenue": 855.0578,
+    "State Revenue": 7805.1732,
+    "Local Revenue": 5588.6692
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2004-01-01",
+    "Federal Revenue": 870.4443,
+    "State Revenue": 7479.0996,
+    "Local Revenue": 5978.0957
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2005-01-01",
+    "Federal Revenue": 882.5516,
+    "State Revenue": 7450.4148,
+    "Local Revenue": 6426.3029
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2006-01-01",
+    "Federal Revenue": 863.7459,
+    "State Revenue": 7534.6506,
+    "Local Revenue": 6033.2631
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2007-01-01",
+    "Federal Revenue": 831.1778,
+    "State Revenue": 7493.0285,
+    "Local Revenue": 6208.8075
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2008-01-01",
+    "Federal Revenue": 881.3807,
+    "State Revenue": 7311.741,
+    "Local Revenue": 6408.107
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1739.7578,
+    "State Revenue": 6614.8119,
+    "Local Revenue": 6549.4056
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1530.5712,
+    "State Revenue": 6795.491,
+    "Local Revenue": 6836.9374
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2011-01-01",
+    "Federal Revenue": 1350.5283,
+    "State Revenue": 7038.6588,
+    "Local Revenue": 6970.0175
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1188.2189,
+    "State Revenue": 6268.2572,
+    "Local Revenue": 6768.6848
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1065.1324,
+    "State Revenue": 7192.0039,
+    "Local Revenue": 5647.836
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1051.1014,
+    "State Revenue": 7225.608,
+    "Local Revenue": 5645.6604
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1027.2303,
+    "State Revenue": 7403.2177,
+    "Local Revenue": 5798.97
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2016-01-01",
+    "Federal Revenue": 985.2894,
+    "State Revenue": 7537.2412,
+    "Local Revenue": 5736.4728
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2017-01-01",
+    "Federal Revenue": 994.1053,
+    "State Revenue": 7675.6863,
+    "Local Revenue": 5804.6439
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2018-01-01",
+    "Federal Revenue": 969.4354,
+    "State Revenue": 7858.5137,
+    "Local Revenue": 5645.1913
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2019-01-01",
+    "Federal Revenue": 980.4404,
+    "State Revenue": 8155.6444,
+    "Local Revenue": 5676.8816
+  },
+  {
+    "State": "Wisconsin",
+    "Year": "2020-01-01",
+    "Federal Revenue": 973.74,
+    "State Revenue": 8241.61,
+    "Local Revenue": 5799.35
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2002-01-01",
+    "Federal Revenue": 1240.3098,
+    "State Revenue": 7286.3686,
+    "Local Revenue": 6375.9985
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2003-01-01",
+    "Federal Revenue": 1385.6206,
+    "State Revenue": 8040.1202,
+    "Local Revenue": 6363.1648
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2004-01-01",
+    "Federal Revenue": 1526.6194,
+    "State Revenue": 8065.3677,
+    "Local Revenue": 5875.3848
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2005-01-01",
+    "Federal Revenue": 1698.3357,
+    "State Revenue": 9342.8525,
+    "Local Revenue": 6987.9412
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2006-01-01",
+    "Federal Revenue": 1740.2428,
+    "State Revenue": 7612.8637,
+    "Local Revenue": 7883.9587
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2007-01-01",
+    "Federal Revenue": 1646.0959,
+    "State Revenue": 10707.5136,
+    "Local Revenue": 9517.4355
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2008-01-01",
+    "Federal Revenue": 1416.286,
+    "State Revenue": 11960.4046,
+    "Local Revenue": 9242.5871
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2009-01-01",
+    "Federal Revenue": 1492.9709,
+    "State Revenue": 13033.9083,
+    "Local Revenue": 8531.6354
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2010-01-01",
+    "Federal Revenue": 1673.3189,
+    "State Revenue": 11893.0588,
+    "Local Revenue": 9590.1044
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2011-01-01",
+    "Federal Revenue": 2045.4608,
+    "State Revenue": 11602.8077,
+    "Local Revenue": 8090.8917
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2012-01-01",
+    "Federal Revenue": 1818.2363,
+    "State Revenue": 10702.4496,
+    "Local Revenue": 8334.5253
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2013-01-01",
+    "Federal Revenue": 1378.7115,
+    "State Revenue": 10703.015,
+    "Local Revenue": 8485.5466
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2014-01-01",
+    "Federal Revenue": 1330.6879,
+    "State Revenue": 11395.669,
+    "Local Revenue": 8183.0578
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2015-01-01",
+    "Federal Revenue": 1393.0446,
+    "State Revenue": 12934.7406,
+    "Local Revenue": 8379.4327
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2016-01-01",
+    "Federal Revenue": 1405.5231,
+    "State Revenue": 13435.7386,
+    "Local Revenue": 8490.0048
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2017-01-01",
+    "Federal Revenue": 1329.7178,
+    "State Revenue": 12885.0119,
+    "Local Revenue": 7570.2647
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2018-01-01",
+    "Federal Revenue": 1282.022,
+    "State Revenue": 11461.8967,
+    "Local Revenue": 7407.5814
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2019-01-01",
+    "Federal Revenue": 1431.2151,
+    "State Revenue": 10453.4533,
+    "Local Revenue": 7571.1327
+  },
+  {
+    "State": "Wyoming",
+    "Year": "2020-01-01",
+    "Federal Revenue": 1466.52,
+    "State Revenue": 10215.05,
+    "Local Revenue": 7702.57
+  }
+]

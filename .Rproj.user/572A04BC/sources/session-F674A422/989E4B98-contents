@@ -927,6 +927,8 @@ support_serivces_us_diff <- support_services_us |>
 support_services_us_pct |>
   t()
 
+write_csv(support_services_us_pct, "output_data/support_services_us_pct.csv")
+
 ss_data_cpi |>
   filter(year == 2020) |>
   select(

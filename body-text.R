@@ -927,6 +927,8 @@ support_serivces_us_diff <- support_services_us |>
 support_services_us_pct |>
   t()
 
+write_csv(support_services_us_pct, "output_data/support_services_us_pct.csv")
+
 ss_data_cpi |>
   filter(year == 2020) |>
   select(
@@ -1616,8 +1618,8 @@ li_naep_reading_8_states <- low_income_naep_reading_8 |>
       select(State, Eligible),
     by = "State"
   ) |>
+  mutate(`Reading 8 Score Pct` = `Eligible.x` / `Eligible.y` - 1) |>
   mutate(`Reading Score Diff` = `Eligible.x` - `Eligible.y`) |>
-  select(State, `Eligible.x`, `Eligible.y`, `Reading Score Diff`) |>
   rename(`Reading Score 2019` = `Eligible.x`, `Reading Score 2003` = `Eligible.y`)
 
 
