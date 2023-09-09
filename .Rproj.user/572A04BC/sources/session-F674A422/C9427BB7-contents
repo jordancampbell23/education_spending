@@ -53,4 +53,4 @@ rev_change <- left_join(rev_change_02, rev_change_03) |>
   select(State, `Percent Change Since 2003`, `Total Revenue - Per Pupil 2019`)
 
 
-
+write_csv(rev_change, "output_data/revenue_change_2003_2019.csv")

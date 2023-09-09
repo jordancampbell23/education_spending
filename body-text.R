@@ -82,7 +82,7 @@ non_teachers_2002 <- staffing |>
   mutate(non_teachers = all_staff - teachers)
 
 # Calculate the percent change between non_teachers_2020 and non_teachers_2002
-non_teachers_2020[1, 1] / non_teachers_2002[1, 1] - 1
+non_teachers_2020[1, 3] / non_teachers_2002[1, 3] - 1
 
 
 #  Get average salary for teachers in the "United States" for 2020 and 2002
